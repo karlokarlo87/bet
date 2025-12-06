@@ -1,0 +1,105 @@
+{
+  "totalSports": 20,
+  "sports": [
+    {
+      "name": "Football",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/football/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/soccer.svg"
+    },
+    {
+      "name": "Basketball",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/basketball/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-basketball.svg"
+    },
+    {
+      "name": "Tennis",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/tennis/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-tennis.svg"
+    },
+    {
+      "name": "Baseball",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/baseball/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-baseball.svg"
+    },
+    {
+      "name": "Hockey",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/hockey/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-hockey.svg"
+    },
+    {
+      "name": "American football",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/american-football/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-football.svg"
+    },
+    {
+      "name": "Bandy",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/bandy/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-bandy.svg"
+    },
+    {
+      "name": "Beach volleyball",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/beach-volleyball/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-beach-volleyball.svg"
+    },
+    {
+      "name": "Boxing",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/boxing/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-boxing.svg"
+    },
+    {
+      "name": "Cricket",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/cricket/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-cricket.svg"
+    },
+    {
+      "name": "Darts",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/darts/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-darts.svg"
+    },
+    {
+      "name": "eSports",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/esports/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-esports.svg"
+    },
+    {
+      "name": "Floorball",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/floorball/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-floorball.svg"
+    },
+    {
+      "name": "Futsal",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/futsal/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-futsal.svg"
+    },
+    {
+      "name": "Handball",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/handball/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-handball.svg"
+    },
+    {
+      "name": "MMA",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/mma/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-mma.svg"
+    },
+    {
+      "name": "Rugby Union",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/rugby-union/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-rugby-union.svg"
+    },
+    {
+      "name": "Snooker",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/snooker/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-snooker.svg"
+    },
+    {
+      "name": "Volleyball",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/volleyball/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-volleyball.svg"
+    },
+    {
+      "name": "Water polo",
+      "url": "https://www.oddsportal.com/inplay-odds/live-now/water-polo/",
+      "icon": "https://cci2.oddsportal.com/sport_icons/ico-water-polo.svg"
+    }
+  ]
+}

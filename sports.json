@@ -1,0 +1,140 @@
+[
+  {
+    "name": "FOOTBALL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/soccer.svg",
+    "alt": "football",
+    "url": "https://www.oddsportal.com/football/"
+  },
+  {
+    "name": "BASKETBALL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-basketball.svg",
+    "alt": "basketball",
+    "url": "https://www.oddsportal.com/basketball/"
+  },
+  {
+    "name": "TENNIS",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-tennis.svg",
+    "alt": "tennis",
+    "url": "https://www.oddsportal.com/tennis/"
+  },
+  {
+    "name": "BASEBALL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-baseball.svg",
+    "alt": "baseball",
+    "url": "https://www.oddsportal.com/baseball/"
+  },
+  {
+    "name": "HOCKEY",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-hockey.svg",
+    "alt": "hockey",
+    "url": "https://www.oddsportal.com/hockey/"
+  },
+  {
+    "name": "AMERICAN FOOTBALL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-football.svg",
+    "alt": "american-football",
+    "url": "https://www.oddsportal.com/american-football/"
+  },
+  {
+    "name": "AUSSIE RULES",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-aussie-rules.svg",
+    "alt": "aussie-rules",
+    "url": "https://www.oddsportal.com/aussie-rules/"
+  },
+  {
+    "name": "BADMINTON",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-badminton.svg",
+    "alt": "badminton",
+    "url": "https://www.oddsportal.com/badminton/"
+  },
+  {
+    "name": "BANDY",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-bandy.svg",
+    "alt": "bandy",
+    "url": "https://www.oddsportal.com/bandy/"
+  },
+  {
+    "name": "BEACH VOLLEYBALL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-beach-volleyball.svg",
+    "alt": "beach-volleyball",
+    "url": "https://www.oddsportal.com/beach-volleyball/"
+  },
+  {
+    "name": "BOXING",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-boxing.svg",
+    "alt": "boxing",
+    "url": "https://www.oddsportal.com/boxing/"
+  },
+  {
+    "name": "CRICKET",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-cricket.svg",
+    "alt": "cricket",
+    "url": "https://www.oddsportal.com/cricket/"
+  },
+  {
+    "name": "DARTS",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-darts.svg",
+    "alt": "darts",
+    "url": "https://www.oddsportal.com/darts/"
+  },
+  {
+    "name": "ESPORTS",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-esports.svg",
+    "alt": "esports",
+    "url": "https://www.oddsportal.com/esports/"
+  },
+  {
+    "name": "FLOORBALL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-floorball.svg",
+    "alt": "floorball",
+    "url": "https://www.oddsportal.com/floorball/"
+  },
+  {
+    "name": "FUTSAL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-futsal.svg",
+    "alt": "futsal",
+    "url": "https://www.oddsportal.com/futsal/"
+  },
+  {
+    "name": "HANDBALL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-handball.svg",
+    "alt": "handball",
+    "url": "https://www.oddsportal.com/handball/"
+  },
+  {
+    "name": "MMA",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-mma.svg",
+    "alt": "mma",
+    "url": "https://www.oddsportal.com/mma/"
+  },
+  {
+    "name": "RUGBY LEAGUE",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-rugby-league.svg",
+    "alt": "rugby-league",
+    "url": "https://www.oddsportal.com/rugby-league/"
+  },
+  {
+    "name": "RUGBY UNION",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-rugby-union.svg",
+    "alt": "rugby-union",
+    "url": "https://www.oddsportal.com/rugby-union/"
+  },
+  {
+    "name": "SNOOKER",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-snooker.svg",
+    "alt": "snooker",
+    "url": "https://www.oddsportal.com/snooker/"
+  },
+  {
+    "name": "VOLLEYBALL",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-volleyball.svg",
+    "alt": "volleyball",
+    "url": "https://www.oddsportal.com/volleyball/"
+  },
+  {
+    "name": "WATER POLO",
+    "icon": "https://cci2.oddsportal.com/sport_icons/ico-water-polo.svg",
+    "alt": "water-polo",
+    "url": "https://www.oddsportal.com/water-polo/"
+  }
+]

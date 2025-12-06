@@ -1,0 +1,5885 @@
+[
+  {
+    "sport": "football",
+    "country": "Africa",
+    "url": "https://www.oddsportal.com/football/africa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/1.svg",
+    "leagues": [
+      {
+        "name": "Africa Cup of Nations (12)",
+        "alt": "africa-cup-of-nations",
+        "url": "https://www.oddsportal.com/football/africa/africa-cup-of-nations/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Algeria",
+    "url": "https://www.oddsportal.com/football/algeria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/dz.svg",
+    "leagues": [
+      {
+        "name": "Ligue 1 (1)",
+        "alt": "ligue-1",
+        "url": "https://www.oddsportal.com/football/algeria/ligue-1/"
+      },
+      {
+        "name": "Algeria Cup (8)",
+        "alt": "algeria-cup",
+        "url": "https://www.oddsportal.com/football/algeria/algeria-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Andorra",
+    "url": "https://www.oddsportal.com/football/andorra/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ad.svg",
+    "leagues": [
+      {
+        "name": "Primera Divisió (6)",
+        "alt": "primera-divisio",
+        "url": "https://www.oddsportal.com/football/andorra/primera-divisio/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Angola",
+    "url": "https://www.oddsportal.com/football/angola/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ao.svg",
+    "leagues": [
+      {
+        "name": "Girabola (2)",
+        "alt": "girabola",
+        "url": "https://www.oddsportal.com/football/angola/girabola/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Argentina",
+    "url": "https://www.oddsportal.com/football/argentina/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ar.svg",
+    "leagues": [
+      {
+        "name": "Torneo Betano (2)",
+        "alt": "torneo-betano",
+        "url": "https://www.oddsportal.com/football/argentina/torneo-betano/"
+      },
+      {
+        "name": "Primera B (2)",
+        "alt": "primera-b",
+        "url": "https://www.oddsportal.com/football/argentina/primera-b/"
+      },
+      {
+        "name": "Primera A Women (2)",
+        "alt": "primera-a-women",
+        "url": "https://www.oddsportal.com/football/argentina/primera-a-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Armenia",
+    "url": "https://www.oddsportal.com/football/armenia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/am.svg",
+    "leagues": [
+      {
+        "name": "Premier League (1)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/armenia/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Asia",
+    "url": "https://www.oddsportal.com/football/asia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/5.svg",
+    "leagues": [
+      {
+        "name": "Arabian Gulf Cup U23 (2)",
+        "alt": "arabian-gulf-cup-u23",
+        "url": "https://www.oddsportal.com/football/asia/arabian-gulf-cup-u23/"
+      },
+      {
+        "name": "Southeast Asian Games Women (2)",
+        "alt": "southeast-asian-games-women",
+        "url": "https://www.oddsportal.com/football/asia/southeast-asian-games-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Australia",
+    "url": "https://www.oddsportal.com/football/australia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/au.svg",
+    "leagues": [
+      {
+        "name": "A-League (11)",
+        "alt": "a-league",
+        "url": "https://www.oddsportal.com/football/australia/a-league/"
+      },
+      {
+        "name": "Australian Championship (1)",
+        "alt": "australian-championship",
+        "url": "https://www.oddsportal.com/football/australia/australian-championship/"
+      },
+      {
+        "name": "A-League Women (7)",
+        "alt": "a-league-women",
+        "url": "https://www.oddsportal.com/football/australia/a-league-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Austria",
+    "url": "https://www.oddsportal.com/football/austria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/at.svg",
+    "leagues": [
+      {
+        "name": "Bundesliga (12)",
+        "alt": "bundesliga",
+        "url": "https://www.oddsportal.com/football/austria/bundesliga/"
+      },
+      {
+        "name": "2. Liga (7)",
+        "alt": "2-liga",
+        "url": "https://www.oddsportal.com/football/austria/2-liga/"
+      },
+      {
+        "name": "Bundesliga Women (1)",
+        "alt": "bundesliga-women",
+        "url": "https://www.oddsportal.com/football/austria/bundesliga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Azerbaijan",
+    "url": "https://www.oddsportal.com/football/azerbaijan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/az.svg",
+    "leagues": [
+      {
+        "name": "Premier League (7)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/azerbaijan/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Bangladesh",
+    "url": "https://www.oddsportal.com/football/bangladesh/",
+    "flag": "https://cci2.oddsportal.com/country-flags/bd.svg",
+    "leagues": [
+      {
+        "name": "BFL (4)",
+        "alt": "bfl",
+        "url": "https://www.oddsportal.com/football/bangladesh/bfl/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Belgium",
+    "url": "https://www.oddsportal.com/football/belgium/",
+    "flag": "https://cci2.oddsportal.com/country-flags/be.svg",
+    "leagues": [
+      {
+        "name": "Jupiler Pro League (16)",
+        "alt": "jupiler-pro-league",
+        "url": "https://www.oddsportal.com/football/belgium/jupiler-pro-league/"
+      },
+      {
+        "name": "Challenger Pro League (9)",
+        "alt": "challenger-pro-league",
+        "url": "https://www.oddsportal.com/football/belgium/challenger-pro-league/"
+      },
+      {
+        "name": "Pro League U21 (1)",
+        "alt": "pro-league-u21",
+        "url": "https://www.oddsportal.com/football/belgium/pro-league-u21/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Bolivia",
+    "url": "https://www.oddsportal.com/football/bolivia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/bo.svg",
+    "leagues": [
+      {
+        "name": "Division Profesional (9)",
+        "alt": "division-profesional",
+        "url": "https://www.oddsportal.com/football/bolivia/division-profesional/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Bosnia and Herzegovina",
+    "url": "https://www.oddsportal.com/football/bosnia-and-herzegovina/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ba.svg",
+    "leagues": [
+      {
+        "name": "WWIN Liga BiH (7)",
+        "alt": "wwin-liga-bih",
+        "url": "https://www.oddsportal.com/football/bosnia-and-herzegovina/wwin-liga-bih/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Brazil",
+    "url": "https://www.oddsportal.com/football/brazil/",
+    "flag": "https://cci2.oddsportal.com/country-flags/br.svg",
+    "leagues": [
+      {
+        "name": "Serie A Betano (10)",
+        "alt": "serie-a-betano",
+        "url": "https://www.oddsportal.com/football/brazil/serie-a-betano/"
+      },
+      {
+        "name": "Copa Betano do Brasil (2)",
+        "alt": "copa-betano-do-brasil",
+        "url": "https://www.oddsportal.com/football/brazil/copa-betano-do-brasil/"
+      },
+      {
+        "name": "Paulista Women (1)",
+        "alt": "paulista-women",
+        "url": "https://www.oddsportal.com/football/brazil/paulista-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Bulgaria",
+    "url": "https://www.oddsportal.com/football/bulgaria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/bg.svg",
+    "leagues": [
+      {
+        "name": "efbet League (9)",
+        "alt": "efbet-league",
+        "url": "https://www.oddsportal.com/football/bulgaria/efbet-league/"
+      },
+      {
+        "name": "Vtora liga (9)",
+        "alt": "vtora-liga",
+        "url": "https://www.oddsportal.com/football/bulgaria/vtora-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Burkina Faso",
+    "url": "https://www.oddsportal.com/football/burkina-faso/",
+    "flag": "https://cci2.oddsportal.com/country-flags/bf.svg",
+    "leagues": [
+      {
+        "name": "Premier League (5)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/burkina-faso/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Burundi",
+    "url": "https://www.oddsportal.com/football/burundi/",
+    "flag": "https://cci2.oddsportal.com/country-flags/bi.svg",
+    "leagues": [
+      {
+        "name": "Primus League (1)",
+        "alt": "primus-league",
+        "url": "https://www.oddsportal.com/football/burundi/primus-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Chile",
+    "url": "https://www.oddsportal.com/football/chile/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cl.svg",
+    "leagues": [
+      {
+        "name": "Liga de Primera (9)",
+        "alt": "liga-de-primera",
+        "url": "https://www.oddsportal.com/football/chile/liga-de-primera/"
+      },
+      {
+        "name": "Copa Chile (1)",
+        "alt": "copa-chile",
+        "url": "https://www.oddsportal.com/football/chile/copa-chile/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "China",
+    "url": "https://www.oddsportal.com/football/china/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cn.svg",
+    "leagues": [
+      {
+        "name": "FA Cup (1)",
+        "alt": "fa-cup",
+        "url": "https://www.oddsportal.com/football/china/fa-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Colombia",
+    "url": "https://www.oddsportal.com/football/colombia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/co.svg",
+    "leagues": [
+      {
+        "name": "Primera A (1)",
+        "alt": "primera-a",
+        "url": "https://www.oddsportal.com/football/colombia/primera-a/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Costa Rica",
+    "url": "https://www.oddsportal.com/football/costa-rica/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cr.svg",
+    "leagues": [
+      {
+        "name": "Primera Division (5)",
+        "alt": "primera-division",
+        "url": "https://www.oddsportal.com/football/costa-rica/primera-division/"
+      },
+      {
+        "name": "Liga de Ascenso (1)",
+        "alt": "liga-de-ascenso",
+        "url": "https://www.oddsportal.com/football/costa-rica/liga-de-ascenso/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Croatia",
+    "url": "https://www.oddsportal.com/football/croatia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hr.svg",
+    "leagues": [
+      {
+        "name": "HNL (5)",
+        "alt": "hnl",
+        "url": "https://www.oddsportal.com/football/croatia/hnl/"
+      },
+      {
+        "name": "Prva NL (1)",
+        "alt": "prva-nl",
+        "url": "https://www.oddsportal.com/football/croatia/prva-nl/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Cyprus",
+    "url": "https://www.oddsportal.com/football/cyprus/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cy.svg",
+    "leagues": [
+      {
+        "name": "Cyprus League (7)",
+        "alt": "cyprus-league",
+        "url": "https://www.oddsportal.com/football/cyprus/cyprus-league/"
+      },
+      {
+        "name": "Division 2 (2)",
+        "alt": "division-2",
+        "url": "https://www.oddsportal.com/football/cyprus/division-2/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Czech Republic",
+    "url": "https://www.oddsportal.com/football/czech-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cz.svg",
+    "leagues": [
+      {
+        "name": "Chance Liga (8)",
+        "alt": "chance-liga",
+        "url": "https://www.oddsportal.com/football/czech-republic/chance-liga/"
+      },
+      {
+        "name": "ChNL (1)",
+        "alt": "chnl",
+        "url": "https://www.oddsportal.com/football/czech-republic/chnl/"
+      },
+      {
+        "name": "3. CFL - Group B (2)",
+        "alt": "3-cfl-group-b",
+        "url": "https://www.oddsportal.com/football/czech-republic/3-cfl-group-b/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Denmark",
+    "url": "https://www.oddsportal.com/football/denmark/",
+    "flag": "https://cci2.oddsportal.com/country-flags/dk.svg",
+    "leagues": [
+      {
+        "name": "Superliga (6)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/football/denmark/superliga/"
+      },
+      {
+        "name": "Landspokal Cup (2)",
+        "alt": "landspokal-cup",
+        "url": "https://www.oddsportal.com/football/denmark/landspokal-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Dominican Republic",
+    "url": "https://www.oddsportal.com/football/dominican-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/do.svg",
+    "leagues": [
+      {
+        "name": "LDF (1)",
+        "alt": "ldf",
+        "url": "https://www.oddsportal.com/football/dominican-republic/ldf/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Ecuador",
+    "url": "https://www.oddsportal.com/football/ecuador/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ec.svg",
+    "leagues": [
+      {
+        "name": "Liga Pro (7)",
+        "alt": "liga-pro",
+        "url": "https://www.oddsportal.com/football/ecuador/liga-pro/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Egypt",
+    "url": "https://www.oddsportal.com/football/egypt/",
+    "flag": "https://cci2.oddsportal.com/country-flags/eg.svg",
+    "leagues": [
+      {
+        "name": "Premier League (2)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/egypt/premier-league/"
+      },
+      {
+        "name": "Division 2 A (1)",
+        "alt": "division-2-a",
+        "url": "https://www.oddsportal.com/football/egypt/division-2-a/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "El Salvador",
+    "url": "https://www.oddsportal.com/football/el-salvador/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sv.svg",
+    "leagues": [
+      {
+        "name": "Primera Division (2)",
+        "alt": "primera-division",
+        "url": "https://www.oddsportal.com/football/el-salvador/primera-division/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "England",
+    "url": "https://www.oddsportal.com/football/england/",
+    "flag": "https://cci2.oddsportal.com/country-flags/198.svg",
+    "leagues": [
+      {
+        "name": "Premier League (20)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/england/premier-league/"
+      },
+      {
+        "name": "Premier League (20)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/england/premier-league/"
+      },
+      {
+        "name": "Championship (24)",
+        "alt": "championship",
+        "url": "https://www.oddsportal.com/football/england/championship/"
+      },
+      {
+        "name": "League One (15)",
+        "alt": "league-one",
+        "url": "https://www.oddsportal.com/football/england/league-one/"
+      },
+      {
+        "name": "League Two (12)",
+        "alt": "league-two",
+        "url": "https://www.oddsportal.com/football/england/league-two/"
+      },
+      {
+        "name": "National League (9)",
+        "alt": "national-league",
+        "url": "https://www.oddsportal.com/football/england/national-league/"
+      },
+      {
+        "name": "National League North (17)",
+        "alt": "national-league-north",
+        "url": "https://www.oddsportal.com/football/england/national-league-north/"
+      },
+      {
+        "name": "National League South (10)",
+        "alt": "national-league-south",
+        "url": "https://www.oddsportal.com/football/england/national-league-south/"
+      },
+      {
+        "name": "NPL Premier Division (14)",
+        "alt": "npl-premier-division",
+        "url": "https://www.oddsportal.com/football/england/npl-premier-division/"
+      },
+      {
+        "name": "FA Cup (20)",
+        "alt": "fa-cup",
+        "url": "https://www.oddsportal.com/football/england/fa-cup/"
+      },
+      {
+        "name": "EFL Cup (3)",
+        "alt": "efl-cup",
+        "url": "https://www.oddsportal.com/football/england/efl-cup/"
+      },
+      {
+        "name": "Premier League 2 (1)",
+        "alt": "premier-league-2",
+        "url": "https://www.oddsportal.com/football/england/premier-league-2/"
+      },
+      {
+        "name": "Professional Development League (3)",
+        "alt": "professional-development-league",
+        "url": "https://www.oddsportal.com/football/england/professional-development-league/"
+      },
+      {
+        "name": "Premier League Cup (5)",
+        "alt": "premier-league-cup",
+        "url": "https://www.oddsportal.com/football/england/premier-league-cup/"
+      },
+      {
+        "name": "WSL (7)",
+        "alt": "wsl",
+        "url": "https://www.oddsportal.com/football/england/wsl/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Ethiopia",
+    "url": "https://www.oddsportal.com/football/ethiopia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/et.svg",
+    "leagues": [
+      {
+        "name": "Premier League (5)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/ethiopia/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Europe",
+    "url": "https://www.oddsportal.com/football/europe/",
+    "flag": "https://cci2.oddsportal.com/country-flags/6.svg",
+    "leagues": [
+      {
+        "name": "Champions League (19)",
+        "alt": "champions-league",
+        "url": "https://www.oddsportal.com/football/europe/champions-league/"
+      },
+      {
+        "name": "Europa League (19)",
+        "alt": "europa-league",
+        "url": "https://www.oddsportal.com/football/europe/europa-league/"
+      },
+      {
+        "name": "Euro U21 (1)",
+        "alt": "euro-u21",
+        "url": "https://www.oddsportal.com/football/europe/euro-u21/"
+      },
+      {
+        "name": "Champions League (19)",
+        "alt": "champions-league",
+        "url": "https://www.oddsportal.com/football/europe/champions-league/"
+      },
+      {
+        "name": "Europa League (19)",
+        "alt": "europa-league",
+        "url": "https://www.oddsportal.com/football/europe/europa-league/"
+      },
+      {
+        "name": "Conference League (18)",
+        "alt": "conference-league",
+        "url": "https://www.oddsportal.com/football/europe/conference-league/"
+      },
+      {
+        "name": "Euro U21 (1)",
+        "alt": "euro-u21",
+        "url": "https://www.oddsportal.com/football/europe/euro-u21/"
+      },
+      {
+        "name": "Champions League Women (9)",
+        "alt": "champions-league-women",
+        "url": "https://www.oddsportal.com/football/europe/champions-league-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "France",
+    "url": "https://www.oddsportal.com/football/france/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fr.svg",
+    "leagues": [
+      {
+        "name": "Ligue 1 (18)",
+        "alt": "ligue-1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1/"
+      },
+      {
+        "name": "Ligue 1 (18)",
+        "alt": "ligue-1",
+        "url": "https://www.oddsportal.com/football/france/ligue-1/"
+      },
+      {
+        "name": "Ligue 2 (9)",
+        "alt": "ligue-2",
+        "url": "https://www.oddsportal.com/football/france/ligue-2/"
+      },
+      {
+        "name": "National (8)",
+        "alt": "national",
+        "url": "https://www.oddsportal.com/football/france/national/"
+      },
+      {
+        "name": "Premiere Ligue Women (6)",
+        "alt": "premiere-ligue-women",
+        "url": "https://www.oddsportal.com/football/france/premiere-ligue-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Georgia",
+    "url": "https://www.oddsportal.com/football/georgia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ge.svg",
+    "leagues": [
+      {
+        "name": "Crystalbet Erovnuli Liga (3)",
+        "alt": "crystalbet-erovnuli-liga",
+        "url": "https://www.oddsportal.com/football/georgia/crystalbet-erovnuli-liga/"
+      },
+      {
+        "name": "Liga 3 (1)",
+        "alt": "liga-3",
+        "url": "https://www.oddsportal.com/football/georgia/liga-3/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Germany",
+    "url": "https://www.oddsportal.com/football/germany/",
+    "flag": "https://cci2.oddsportal.com/country-flags/de.svg",
+    "leagues": [
+      {
+        "name": "Bundesliga (18)",
+        "alt": "bundesliga",
+        "url": "https://www.oddsportal.com/football/germany/bundesliga/"
+      },
+      {
+        "name": "Bundesliga (18)",
+        "alt": "bundesliga",
+        "url": "https://www.oddsportal.com/football/germany/bundesliga/"
+      },
+      {
+        "name": "2. Bundesliga (9)",
+        "alt": "2-bundesliga",
+        "url": "https://www.oddsportal.com/football/germany/2-bundesliga/"
+      },
+      {
+        "name": "3. Liga (10)",
+        "alt": "3-liga",
+        "url": "https://www.oddsportal.com/football/germany/3-liga/"
+      },
+      {
+        "name": "Bundesliga Women (3)",
+        "alt": "bundesliga-women",
+        "url": "https://www.oddsportal.com/football/germany/bundesliga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Ghana",
+    "url": "https://www.oddsportal.com/football/ghana/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gh.svg",
+    "leagues": [
+      {
+        "name": "Premier League (1)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/ghana/premier-league/"
+      },
+      {
+        "name": "Division One League (1)",
+        "alt": "division-one-league",
+        "url": "https://www.oddsportal.com/football/ghana/division-one-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Greece",
+    "url": "https://www.oddsportal.com/football/greece/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gr.svg",
+    "leagues": [
+      {
+        "name": "Super League (14)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/football/greece/super-league/"
+      },
+      {
+        "name": "Super League 2 (11)",
+        "alt": "super-league-2",
+        "url": "https://www.oddsportal.com/football/greece/super-league-2/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Guatemala",
+    "url": "https://www.oddsportal.com/football/guatemala/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gt.svg",
+    "leagues": [
+      {
+        "name": "Liga Nacional (4)",
+        "alt": "liga-nacional",
+        "url": "https://www.oddsportal.com/football/guatemala/liga-nacional/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Hong Kong",
+    "url": "https://www.oddsportal.com/football/hong-kong/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hk.svg",
+    "leagues": [
+      {
+        "name": "Premier League (3)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/hong-kong/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Hungary",
+    "url": "https://www.oddsportal.com/football/hungary/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hu.svg",
+    "leagues": [
+      {
+        "name": "NB I. (6)",
+        "alt": "nb-i",
+        "url": "https://www.oddsportal.com/football/hungary/nb-i/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Indonesia",
+    "url": "https://www.oddsportal.com/football/indonesia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/id.svg",
+    "leagues": [
+      {
+        "name": "Super League (2)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/football/indonesia/super-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Iran",
+    "url": "https://www.oddsportal.com/football/iran/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ir.svg",
+    "leagues": [
+      {
+        "name": "Persian Gulf Pro League (6)",
+        "alt": "persian-gulf-pro-league",
+        "url": "https://www.oddsportal.com/football/iran/persian-gulf-pro-league/"
+      },
+      {
+        "name": "Azadegan League (5)",
+        "alt": "azadegan-league",
+        "url": "https://www.oddsportal.com/football/iran/azadegan-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Israel",
+    "url": "https://www.oddsportal.com/football/israel/",
+    "flag": "https://cci2.oddsportal.com/country-flags/il.svg",
+    "leagues": [
+      {
+        "name": "Ligat ha'Al (7)",
+        "alt": "ligat-ha-al",
+        "url": "https://www.oddsportal.com/football/israel/ligat-ha-al/"
+      },
+      {
+        "name": "Leumit League (8)",
+        "alt": "leumit-league",
+        "url": "https://www.oddsportal.com/football/israel/leumit-league/"
+      },
+      {
+        "name": "Liga Alef North (3)",
+        "alt": "liga-alef-north",
+        "url": "https://www.oddsportal.com/football/israel/liga-alef-north/"
+      },
+      {
+        "name": "Liga Alef South (6)",
+        "alt": "liga-alef-south",
+        "url": "https://www.oddsportal.com/football/israel/liga-alef-south/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Italy",
+    "url": "https://www.oddsportal.com/football/italy/",
+    "flag": "https://cci2.oddsportal.com/country-flags/it.svg",
+    "leagues": [
+      {
+        "name": "Serie A (20)",
+        "alt": "serie-a",
+        "url": "https://www.oddsportal.com/football/italy/serie-a/"
+      },
+      {
+        "name": "Serie A (20)",
+        "alt": "serie-a",
+        "url": "https://www.oddsportal.com/football/italy/serie-a/"
+      },
+      {
+        "name": "Serie B (10)",
+        "alt": "serie-b",
+        "url": "https://www.oddsportal.com/football/italy/serie-b/"
+      },
+      {
+        "name": "Serie C - Group A (10)",
+        "alt": "serie-c-group-a",
+        "url": "https://www.oddsportal.com/football/italy/serie-c-group-a/"
+      },
+      {
+        "name": "Serie C - Group B (9)",
+        "alt": "serie-c-group-b",
+        "url": "https://www.oddsportal.com/football/italy/serie-c-group-b/"
+      },
+      {
+        "name": "Serie C - Group C (10)",
+        "alt": "serie-c-group-c",
+        "url": "https://www.oddsportal.com/football/italy/serie-c-group-c/"
+      },
+      {
+        "name": "Coppa Italia (2)",
+        "alt": "coppa-italia",
+        "url": "https://www.oddsportal.com/football/italy/coppa-italia/"
+      },
+      {
+        "name": "Super Cup (2)",
+        "alt": "super-cup",
+        "url": "https://www.oddsportal.com/football/italy/super-cup/"
+      },
+      {
+        "name": "Serie A Women (2)",
+        "alt": "serie-a-women",
+        "url": "https://www.oddsportal.com/football/italy/serie-a-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Jamaica",
+    "url": "https://www.oddsportal.com/football/jamaica/",
+    "flag": "https://cci2.oddsportal.com/country-flags/jm.svg",
+    "leagues": [
+      {
+        "name": "Premier League (9)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/jamaica/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Japan",
+    "url": "https://www.oddsportal.com/football/japan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/jp.svg",
+    "leagues": [
+      {
+        "name": "J1 League (10)",
+        "alt": "j1-league",
+        "url": "https://www.oddsportal.com/football/japan/j1-league/"
+      },
+      {
+        "name": "J2 League (2)",
+        "alt": "j2-league",
+        "url": "https://www.oddsportal.com/football/japan/j2-league/"
+      },
+      {
+        "name": "J3 League (2)",
+        "alt": "j3-league",
+        "url": "https://www.oddsportal.com/football/japan/j3-league/"
+      },
+      {
+        "name": "Empress's Cup Women (3)",
+        "alt": "empress-s-cup-women",
+        "url": "https://www.oddsportal.com/football/japan/empress-s-cup-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Jordan",
+    "url": "https://www.oddsportal.com/football/jordan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/jo.svg",
+    "leagues": [
+      {
+        "name": "Shield Cup (2)",
+        "alt": "shield-cup",
+        "url": "https://www.oddsportal.com/football/jordan/shield-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Kenya",
+    "url": "https://www.oddsportal.com/football/kenya/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ke.svg",
+    "leagues": [
+      {
+        "name": "Premier League (4)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/kenya/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Kosovo",
+    "url": "https://www.oddsportal.com/football/kosovo/",
+    "flag": "https://cci2.oddsportal.com/country-flags/xk.svg",
+    "leagues": [
+      {
+        "name": "Superliga (2)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/football/kosovo/superliga/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Lebanon",
+    "url": "https://www.oddsportal.com/football/lebanon/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lb.svg",
+    "leagues": [
+      {
+        "name": "Premier League (2)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/lebanon/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Luxembourg",
+    "url": "https://www.oddsportal.com/football/luxembourg/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lu.svg",
+    "leagues": [
+      {
+        "name": "BGL Ligue (2)",
+        "alt": "bgl-ligue",
+        "url": "https://www.oddsportal.com/football/luxembourg/bgl-ligue/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Malawi",
+    "url": "https://www.oddsportal.com/football/malawi/",
+    "flag": "https://cci2.oddsportal.com/country-flags/mw.svg",
+    "leagues": [
+      {
+        "name": "Super League (1)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/football/malawi/super-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Malaysia",
+    "url": "https://www.oddsportal.com/football/malaysia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/my.svg",
+    "leagues": [
+      {
+        "name": "Super League (1)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/football/malaysia/super-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Mali",
+    "url": "https://www.oddsportal.com/football/mali/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ml.svg",
+    "leagues": [
+      {
+        "name": "Premiere Division (3)",
+        "alt": "premiere-division",
+        "url": "https://www.oddsportal.com/football/mali/premiere-division/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Mexico",
+    "url": "https://www.oddsportal.com/football/mexico/",
+    "flag": "https://cci2.oddsportal.com/country-flags/mx.svg",
+    "leagues": [
+      {
+        "name": "Liga MX (2)",
+        "alt": "liga-mx",
+        "url": "https://www.oddsportal.com/football/mexico/liga-mx/"
+      },
+      {
+        "name": "Liga de Expansion MX (1)",
+        "alt": "liga-de-expansion-mx",
+        "url": "https://www.oddsportal.com/football/mexico/liga-de-expansion-mx/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Montenegro",
+    "url": "https://www.oddsportal.com/football/montenegro/",
+    "flag": "https://cci2.oddsportal.com/country-flags/me.svg",
+    "leagues": [
+      {
+        "name": "Prva Crnogorska Liga (6)",
+        "alt": "prva-crnogorska-liga",
+        "url": "https://www.oddsportal.com/football/montenegro/prva-crnogorska-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Netherlands",
+    "url": "https://www.oddsportal.com/football/netherlands/",
+    "flag": "https://cci2.oddsportal.com/country-flags/nl.svg",
+    "leagues": [
+      {
+        "name": "Eredivisie (18)",
+        "alt": "eredivisie",
+        "url": "https://www.oddsportal.com/football/netherlands/eredivisie/"
+      },
+      {
+        "name": "Eerste Divisie (11)",
+        "alt": "eerste-divisie",
+        "url": "https://www.oddsportal.com/football/netherlands/eerste-divisie/"
+      },
+      {
+        "name": "Tweede Divisie (9)",
+        "alt": "tweede-divisie",
+        "url": "https://www.oddsportal.com/football/netherlands/tweede-divisie/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "New Zealand",
+    "url": "https://www.oddsportal.com/football/new-zealand/",
+    "flag": "https://cci2.oddsportal.com/country-flags/nz.svg",
+    "leagues": [
+      {
+        "name": "National League (5)",
+        "alt": "national-league",
+        "url": "https://www.oddsportal.com/football/new-zealand/national-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Niger",
+    "url": "https://www.oddsportal.com/football/niger/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ne.svg",
+    "leagues": [
+      {
+        "name": "Super Ligue (1)",
+        "alt": "super-ligue",
+        "url": "https://www.oddsportal.com/football/niger/super-ligue/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Nigeria",
+    "url": "https://www.oddsportal.com/football/nigeria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ng.svg",
+    "leagues": [
+      {
+        "name": "NPFL (1)",
+        "alt": "npfl",
+        "url": "https://www.oddsportal.com/football/nigeria/npfl/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "North Macedonia",
+    "url": "https://www.oddsportal.com/football/north-macedonia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/mk.svg",
+    "leagues": [
+      {
+        "name": "1. MFL (3)",
+        "alt": "1-mfl",
+        "url": "https://www.oddsportal.com/football/north-macedonia/1-mfl/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Northern Ireland",
+    "url": "https://www.oddsportal.com/football/northern-ireland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/144.svg",
+    "leagues": [
+      {
+        "name": "NIFL Premiership (12)",
+        "alt": "nifl-premiership",
+        "url": "https://www.oddsportal.com/football/northern-ireland/nifl-premiership/"
+      },
+      {
+        "name": "NIFL Championship (6)",
+        "alt": "nifl-championship",
+        "url": "https://www.oddsportal.com/football/northern-ireland/nifl-championship/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Norway",
+    "url": "https://www.oddsportal.com/football/norway/",
+    "flag": "https://cci2.oddsportal.com/country-flags/no.svg",
+    "leagues": [
+      {
+        "name": "Eliteserien (1)",
+        "alt": "eliteserien",
+        "url": "https://www.oddsportal.com/football/norway/eliteserien/"
+      },
+      {
+        "name": "NM Cup (1)",
+        "alt": "nm-cup",
+        "url": "https://www.oddsportal.com/football/norway/nm-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Paraguay",
+    "url": "https://www.oddsportal.com/football/paraguay/",
+    "flag": "https://cci2.oddsportal.com/country-flags/py.svg",
+    "leagues": [
+      {
+        "name": "Super Cup (1)",
+        "alt": "super-cup",
+        "url": "https://www.oddsportal.com/football/paraguay/super-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Peru",
+    "url": "https://www.oddsportal.com/football/peru/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pe.svg",
+    "leagues": [
+      {
+        "name": "Liga 1 (1)",
+        "alt": "liga-1",
+        "url": "https://www.oddsportal.com/football/peru/liga-1/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Poland",
+    "url": "https://www.oddsportal.com/football/poland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pl.svg",
+    "leagues": [
+      {
+        "name": "Ekstraklasa (13)",
+        "alt": "ekstraklasa",
+        "url": "https://www.oddsportal.com/football/poland/ekstraklasa/"
+      },
+      {
+        "name": "Division 1 (9)",
+        "alt": "division-1",
+        "url": "https://www.oddsportal.com/football/poland/division-1/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Portugal",
+    "url": "https://www.oddsportal.com/football/portugal/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pt.svg",
+    "leagues": [
+      {
+        "name": "Liga Portugal (9)",
+        "alt": "liga-portugal",
+        "url": "https://www.oddsportal.com/football/portugal/liga-portugal/"
+      },
+      {
+        "name": "Liga Portugal 2 (9)",
+        "alt": "liga-portugal-2",
+        "url": "https://www.oddsportal.com/football/portugal/liga-portugal-2/"
+      },
+      {
+        "name": "Liga 3 (10)",
+        "alt": "liga-3",
+        "url": "https://www.oddsportal.com/football/portugal/liga-3/"
+      },
+      {
+        "name": "Liga Revelacao U23 (2)",
+        "alt": "liga-revelacao-u23",
+        "url": "https://www.oddsportal.com/football/portugal/liga-revelacao-u23/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Qatar",
+    "url": "https://www.oddsportal.com/football/qatar/",
+    "flag": "https://cci2.oddsportal.com/country-flags/qa.svg",
+    "leagues": [
+      {
+        "name": "QSL Cup (5)",
+        "alt": "qsl-cup",
+        "url": "https://www.oddsportal.com/football/qatar/qsl-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Romania",
+    "url": "https://www.oddsportal.com/football/romania/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ro.svg",
+    "leagues": [
+      {
+        "name": "Superliga (16)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/football/romania/superliga/"
+      },
+      {
+        "name": "Liga 2 (11)",
+        "alt": "liga-2",
+        "url": "https://www.oddsportal.com/football/romania/liga-2/"
+      },
+      {
+        "name": "Liga 3 - Seria 1 (2)",
+        "alt": "liga-3-seria-1",
+        "url": "https://www.oddsportal.com/football/romania/liga-3-seria-1/"
+      },
+      {
+        "name": "Liga 3 - Seria 2 (2)",
+        "alt": "liga-3-seria-2",
+        "url": "https://www.oddsportal.com/football/romania/liga-3-seria-2/"
+      },
+      {
+        "name": "Liga 3 - Seria 3 (1)",
+        "alt": "liga-3-seria-3",
+        "url": "https://www.oddsportal.com/football/romania/liga-3-seria-3/"
+      },
+      {
+        "name": "Liga 3 - Seria 4 (2)",
+        "alt": "liga-3-seria-4",
+        "url": "https://www.oddsportal.com/football/romania/liga-3-seria-4/"
+      },
+      {
+        "name": "Liga 3 - Seria 5 (1)",
+        "alt": "liga-3-seria-5",
+        "url": "https://www.oddsportal.com/football/romania/liga-3-seria-5/"
+      },
+      {
+        "name": "Liga 3 - Seria 6 (3)",
+        "alt": "liga-3-seria-6",
+        "url": "https://www.oddsportal.com/football/romania/liga-3-seria-6/"
+      },
+      {
+        "name": "Liga 3 - Seria 7 (2)",
+        "alt": "liga-3-seria-7",
+        "url": "https://www.oddsportal.com/football/romania/liga-3-seria-7/"
+      },
+      {
+        "name": "Liga 3 - Seria 8 (1)",
+        "alt": "liga-3-seria-8",
+        "url": "https://www.oddsportal.com/football/romania/liga-3-seria-8/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Russia",
+    "url": "https://www.oddsportal.com/football/russia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ru.svg",
+    "leagues": [
+      {
+        "name": "Premier League (15)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/russia/premier-league/"
+      },
+      {
+        "name": "Russian Cup (6)",
+        "alt": "russian-cup",
+        "url": "https://www.oddsportal.com/football/russia/russian-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Rwanda",
+    "url": "https://www.oddsportal.com/football/rwanda/",
+    "flag": "https://cci2.oddsportal.com/country-flags/rw.svg",
+    "leagues": [
+      {
+        "name": "Premier League (3)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/rwanda/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Saudi Arabia",
+    "url": "https://www.oddsportal.com/football/saudi-arabia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sa.svg",
+    "leagues": [
+      {
+        "name": "Division 1 (1)",
+        "alt": "division-1",
+        "url": "https://www.oddsportal.com/football/saudi-arabia/division-1/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Scotland",
+    "url": "https://www.oddsportal.com/football/scotland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/199.svg",
+    "leagues": [
+      {
+        "name": "Premiership (12)",
+        "alt": "premiership",
+        "url": "https://www.oddsportal.com/football/scotland/premiership/"
+      },
+      {
+        "name": "Championship (5)",
+        "alt": "championship",
+        "url": "https://www.oddsportal.com/football/scotland/championship/"
+      },
+      {
+        "name": "League One (5)",
+        "alt": "league-one",
+        "url": "https://www.oddsportal.com/football/scotland/league-one/"
+      },
+      {
+        "name": "League Two (5)",
+        "alt": "league-two",
+        "url": "https://www.oddsportal.com/football/scotland/league-two/"
+      },
+      {
+        "name": "Scottish Cup (1)",
+        "alt": "scottish-cup",
+        "url": "https://www.oddsportal.com/football/scotland/scottish-cup/"
+      },
+      {
+        "name": "League Cup (1)",
+        "alt": "league-cup",
+        "url": "https://www.oddsportal.com/football/scotland/league-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Serbia",
+    "url": "https://www.oddsportal.com/football/serbia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/rs.svg",
+    "leagues": [
+      {
+        "name": "Mozzart Bet Super Liga (8)",
+        "alt": "mozzart-bet-super-liga",
+        "url": "https://www.oddsportal.com/football/serbia/mozzart-bet-super-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Singapore",
+    "url": "https://www.oddsportal.com/football/singapore/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sg.svg",
+    "leagues": [
+      {
+        "name": "Singapore Cup (1)",
+        "alt": "singapore-cup",
+        "url": "https://www.oddsportal.com/football/singapore/singapore-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Slovakia",
+    "url": "https://www.oddsportal.com/football/slovakia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sk.svg",
+    "leagues": [
+      {
+        "name": "Nike liga (6)",
+        "alt": "nike-liga",
+        "url": "https://www.oddsportal.com/football/slovakia/nike-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Slovenia",
+    "url": "https://www.oddsportal.com/football/slovenia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/si.svg",
+    "leagues": [
+      {
+        "name": "Prva liga (5)",
+        "alt": "prva-liga",
+        "url": "https://www.oddsportal.com/football/slovenia/prva-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "South Africa",
+    "url": "https://www.oddsportal.com/football/south-africa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/za.svg",
+    "leagues": [
+      {
+        "name": "Betway Premiership (1)",
+        "alt": "betway-premiership",
+        "url": "https://www.oddsportal.com/football/south-africa/betway-premiership/"
+      },
+      {
+        "name": "Motsepe Foundation Championship (3)",
+        "alt": "motsepe-foundation-championship",
+        "url": "https://www.oddsportal.com/football/south-africa/motsepe-foundation-championship/"
+      },
+      {
+        "name": "Carling Knockout (1)",
+        "alt": "carling-knockout",
+        "url": "https://www.oddsportal.com/football/south-africa/carling-knockout/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "South Korea",
+    "url": "https://www.oddsportal.com/football/south-korea/",
+    "flag": "https://cci2.oddsportal.com/country-flags/kr.svg",
+    "leagues": [
+      {
+        "name": "K League 1 (1)",
+        "alt": "k-league-1",
+        "url": "https://www.oddsportal.com/football/south-korea/k-league-1/"
+      },
+      {
+        "name": "Korean Cup (1)",
+        "alt": "korean-cup",
+        "url": "https://www.oddsportal.com/football/south-korea/korean-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Spain",
+    "url": "https://www.oddsportal.com/football/spain/",
+    "flag": "https://cci2.oddsportal.com/country-flags/es.svg",
+    "leagues": [
+      {
+        "name": "LaLiga (20)",
+        "alt": "laliga",
+        "url": "https://www.oddsportal.com/football/spain/laliga/"
+      },
+      {
+        "name": "LaLiga (20)",
+        "alt": "laliga",
+        "url": "https://www.oddsportal.com/football/spain/laliga/"
+      },
+      {
+        "name": "LaLiga2 (11)",
+        "alt": "laliga2",
+        "url": "https://www.oddsportal.com/football/spain/laliga2/"
+      },
+      {
+        "name": "Primera RFEF - Group 1 (10)",
+        "alt": "primera-rfef-group-1",
+        "url": "https://www.oddsportal.com/football/spain/primera-rfef-group-1/"
+      },
+      {
+        "name": "Primera RFEF - Group 2 (11)",
+        "alt": "primera-rfef-group-2",
+        "url": "https://www.oddsportal.com/football/spain/primera-rfef-group-2/"
+      },
+      {
+        "name": "Liga F Women (8)",
+        "alt": "liga-f-women",
+        "url": "https://www.oddsportal.com/football/spain/liga-f-women/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Switzerland",
+    "url": "https://www.oddsportal.com/football/switzerland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ch.svg",
+    "leagues": [
+      {
+        "name": "Super League (6)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/football/switzerland/super-league/"
+      },
+      {
+        "name": "Challenge League (6)",
+        "alt": "challenge-league",
+        "url": "https://www.oddsportal.com/football/switzerland/challenge-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Taiwan",
+    "url": "https://www.oddsportal.com/football/taiwan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tw.svg",
+    "leagues": [
+      {
+        "name": "Premier League (1)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/taiwan/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Tanzania",
+    "url": "https://www.oddsportal.com/football/tanzania/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tz.svg",
+    "leagues": [
+      {
+        "name": "Ligi Kuu Bara (3)",
+        "alt": "ligi-kuu-bara",
+        "url": "https://www.oddsportal.com/football/tanzania/ligi-kuu-bara/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Thailand",
+    "url": "https://www.oddsportal.com/football/thailand/",
+    "flag": "https://cci2.oddsportal.com/country-flags/th.svg",
+    "leagues": [
+      {
+        "name": "Thai League 1 (9)",
+        "alt": "thai-league-1",
+        "url": "https://www.oddsportal.com/football/thailand/thai-league-1/"
+      },
+      {
+        "name": "Thai League 2 (2)",
+        "alt": "thai-league-2",
+        "url": "https://www.oddsportal.com/football/thailand/thai-league-2/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Trinidad and Tobago",
+    "url": "https://www.oddsportal.com/football/trinidad-and-tobago/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tt.svg",
+    "leagues": [
+      {
+        "name": "TT Premier League (2)",
+        "alt": "tt-premier-league",
+        "url": "https://www.oddsportal.com/football/trinidad-and-tobago/tt-premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Turkey",
+    "url": "https://www.oddsportal.com/football/turkey/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tr.svg",
+    "leagues": [
+      {
+        "name": "Super Lig (9)",
+        "alt": "super-lig",
+        "url": "https://www.oddsportal.com/football/turkey/super-lig/"
+      },
+      {
+        "name": "1. Lig (10)",
+        "alt": "1-lig",
+        "url": "https://www.oddsportal.com/football/turkey/1-lig/"
+      },
+      {
+        "name": "2. Lig White Group (4)",
+        "alt": "2-lig-white-group",
+        "url": "https://www.oddsportal.com/football/turkey/2-lig-white-group/"
+      },
+      {
+        "name": "2. Lig Red Group (4)",
+        "alt": "2-lig-red-group",
+        "url": "https://www.oddsportal.com/football/turkey/2-lig-red-group/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Uganda",
+    "url": "https://www.oddsportal.com/football/uganda/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ug.svg",
+    "leagues": [
+      {
+        "name": "Premier League (2)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/uganda/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Ukraine",
+    "url": "https://www.oddsportal.com/football/ukraine/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ua.svg",
+    "leagues": [
+      {
+        "name": "Premier League (8)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/football/ukraine/premier-league/"
+      },
+      {
+        "name": "Persha Liga (1)",
+        "alt": "persha-liga",
+        "url": "https://www.oddsportal.com/football/ukraine/persha-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "United Arab Emirates",
+    "url": "https://www.oddsportal.com/football/united-arab-emirates/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ae.svg",
+    "leagues": [
+      {
+        "name": "League Cup (2)",
+        "alt": "league-cup",
+        "url": "https://www.oddsportal.com/football/united-arab-emirates/league-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "USA",
+    "url": "https://www.oddsportal.com/football/usa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/us.svg",
+    "leagues": [
+      {
+        "name": "MLS (1)",
+        "alt": "mls",
+        "url": "https://www.oddsportal.com/football/usa/mls/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Uzbekistan",
+    "url": "https://www.oddsportal.com/football/uzbekistan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/uz.svg",
+    "leagues": [
+      {
+        "name": "Super League (2)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/football/uzbekistan/super-league/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Venezuela",
+    "url": "https://www.oddsportal.com/football/venezuela/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ve.svg",
+    "leagues": [
+      {
+        "name": "Liga FUTVE (1)",
+        "alt": "liga-futve",
+        "url": "https://www.oddsportal.com/football/venezuela/liga-futve/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Wales",
+    "url": "https://www.oddsportal.com/football/wales/",
+    "flag": "https://cci2.oddsportal.com/country-flags/207.svg",
+    "leagues": [
+      {
+        "name": "Cymru Premier (10)",
+        "alt": "cymru-premier",
+        "url": "https://www.oddsportal.com/football/wales/cymru-premier/"
+      },
+      {
+        "name": "Cymru South (12)",
+        "alt": "cymru-south",
+        "url": "https://www.oddsportal.com/football/wales/cymru-south/"
+      },
+      {
+        "name": "Cymru North (16)",
+        "alt": "cymru-north",
+        "url": "https://www.oddsportal.com/football/wales/cymru-north/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "World",
+    "url": "https://www.oddsportal.com/football/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "World Cup 2026 (8)",
+        "alt": "world-cup-2026",
+        "url": "https://www.oddsportal.com/football/world/world-cup-2026/"
+      },
+      {
+        "name": "World Cup 2026 (8)",
+        "alt": "world-cup-2026",
+        "url": "https://www.oddsportal.com/football/world/world-cup-2026/"
+      },
+      {
+        "name": "FIFA Intercontinental Cup (1)",
+        "alt": "fifa-intercontinental-cup",
+        "url": "https://www.oddsportal.com/football/world/fifa-intercontinental-cup/"
+      },
+      {
+        "name": "FIFA Arab Cup (6)",
+        "alt": "fifa-arab-cup",
+        "url": "https://www.oddsportal.com/football/world/fifa-arab-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "football",
+    "country": "Zambia",
+    "url": "https://www.oddsportal.com/football/zambia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/zm.svg",
+    "leagues": [
+      {
+        "name": "Super League (1)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/football/zambia/super-league/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Africa",
+    "url": "https://www.oddsportal.com/basketball/africa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/1.svg",
+    "leagues": [
+      {
+        "name": "Africa Cup 3x3 (2)",
+        "alt": "africa-cup-3x3",
+        "url": "https://www.oddsportal.com/basketball/africa/africa-cup-3x3/"
+      },
+      {
+        "name": "Africa Cup 3x3 Women (9)",
+        "alt": "africa-cup-3x3-women",
+        "url": "https://www.oddsportal.com/basketball/africa/africa-cup-3x3-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Albania",
+    "url": "https://www.oddsportal.com/basketball/albania/",
+    "flag": "https://cci2.oddsportal.com/country-flags/al.svg",
+    "leagues": [
+      {
+        "name": "Superliga (4)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/basketball/albania/superliga/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Argentina",
+    "url": "https://www.oddsportal.com/basketball/argentina/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ar.svg",
+    "leagues": [
+      {
+        "name": "Liga A (6)",
+        "alt": "liga-a",
+        "url": "https://www.oddsportal.com/basketball/argentina/liga-a/"
+      },
+      {
+        "name": "Liga Femenina Women (5)",
+        "alt": "liga-femenina-women",
+        "url": "https://www.oddsportal.com/basketball/argentina/liga-femenina-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Asia",
+    "url": "https://www.oddsportal.com/basketball/asia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/5.svg",
+    "leagues": [
+      {
+        "name": "EASL (1)",
+        "alt": "easl",
+        "url": "https://www.oddsportal.com/basketball/asia/easl/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Australia",
+    "url": "https://www.oddsportal.com/basketball/australia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/au.svg",
+    "leagues": [
+      {
+        "name": "NBL (4)",
+        "alt": "nbl",
+        "url": "https://www.oddsportal.com/basketball/australia/nbl/"
+      },
+      {
+        "name": "WNBL Women (5)",
+        "alt": "wnbl-women",
+        "url": "https://www.oddsportal.com/basketball/australia/wnbl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Austria",
+    "url": "https://www.oddsportal.com/basketball/austria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/at.svg",
+    "leagues": [
+      {
+        "name": "Zweite Liga (5)",
+        "alt": "zweite-liga",
+        "url": "https://www.oddsportal.com/basketball/austria/zweite-liga/"
+      },
+      {
+        "name": "Austria Cup (3)",
+        "alt": "austria-cup",
+        "url": "https://www.oddsportal.com/basketball/austria/austria-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Bahrain",
+    "url": "https://www.oddsportal.com/basketball/bahrain/",
+    "flag": "https://cci2.oddsportal.com/country-flags/bh.svg",
+    "leagues": [
+      {
+        "name": "Premier League (1)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/basketball/bahrain/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Belgium",
+    "url": "https://www.oddsportal.com/basketball/belgium/",
+    "flag": "https://cci2.oddsportal.com/country-flags/be.svg",
+    "leagues": [
+      {
+        "name": "Top Division Women (1)",
+        "alt": "top-division-women",
+        "url": "https://www.oddsportal.com/basketball/belgium/top-division-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Bosnia and Herzegovina",
+    "url": "https://www.oddsportal.com/basketball/bosnia-and-herzegovina/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ba.svg",
+    "leagues": [
+      {
+        "name": "Prvenstvo BiH (3)",
+        "alt": "prvenstvo-bih",
+        "url": "https://www.oddsportal.com/basketball/bosnia-and-herzegovina/prvenstvo-bih/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Brazil",
+    "url": "https://www.oddsportal.com/basketball/brazil/",
+    "flag": "https://cci2.oddsportal.com/country-flags/br.svg",
+    "leagues": [
+      {
+        "name": "NBB (8)",
+        "alt": "nbb",
+        "url": "https://www.oddsportal.com/basketball/brazil/nbb/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Bulgaria",
+    "url": "https://www.oddsportal.com/basketball/bulgaria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/bg.svg",
+    "leagues": [
+      {
+        "name": "NBL (1)",
+        "alt": "nbl",
+        "url": "https://www.oddsportal.com/basketball/bulgaria/nbl/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Chile",
+    "url": "https://www.oddsportal.com/basketball/chile/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cl.svg",
+    "leagues": [
+      {
+        "name": "LNB (1)",
+        "alt": "lnb",
+        "url": "https://www.oddsportal.com/basketball/chile/lnb/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "China",
+    "url": "https://www.oddsportal.com/basketball/china/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cn.svg",
+    "leagues": [
+      {
+        "name": "CBA Club Cup (8)",
+        "alt": "cba-club-cup",
+        "url": "https://www.oddsportal.com/basketball/china/cba-club-cup/"
+      },
+      {
+        "name": "WCBA Women (5)",
+        "alt": "wcba-women",
+        "url": "https://www.oddsportal.com/basketball/china/wcba-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Colombia",
+    "url": "https://www.oddsportal.com/basketball/colombia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/co.svg",
+    "leagues": [
+      {
+        "name": "LBP (2)",
+        "alt": "lbp",
+        "url": "https://www.oddsportal.com/basketball/colombia/lbp/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Croatia",
+    "url": "https://www.oddsportal.com/basketball/croatia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hr.svg",
+    "leagues": [
+      {
+        "name": "Premijer liga (5)",
+        "alt": "premijer-liga",
+        "url": "https://www.oddsportal.com/basketball/croatia/premijer-liga/"
+      },
+      {
+        "name": "Premijer Liga Women (3)",
+        "alt": "premijer-liga-women",
+        "url": "https://www.oddsportal.com/basketball/croatia/premijer-liga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Cyprus",
+    "url": "https://www.oddsportal.com/basketball/cyprus/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cy.svg",
+    "leagues": [
+      {
+        "name": "Division A (1)",
+        "alt": "division-a",
+        "url": "https://www.oddsportal.com/basketball/cyprus/division-a/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Czech Republic",
+    "url": "https://www.oddsportal.com/basketball/czech-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cz.svg",
+    "leagues": [
+      {
+        "name": "NBL (7)",
+        "alt": "nbl",
+        "url": "https://www.oddsportal.com/basketball/czech-republic/nbl/"
+      },
+      {
+        "name": "1. Liga (8)",
+        "alt": "1-liga",
+        "url": "https://www.oddsportal.com/basketball/czech-republic/1-liga/"
+      },
+      {
+        "name": "ZBL Women (6)",
+        "alt": "zbl-women",
+        "url": "https://www.oddsportal.com/basketball/czech-republic/zbl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Denmark",
+    "url": "https://www.oddsportal.com/basketball/denmark/",
+    "flag": "https://cci2.oddsportal.com/country-flags/dk.svg",
+    "leagues": [
+      {
+        "name": "Basketligaen (1)",
+        "alt": "basketligaen",
+        "url": "https://www.oddsportal.com/basketball/denmark/basketligaen/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Europe",
+    "url": "https://www.oddsportal.com/basketball/europe/",
+    "flag": "https://cci2.oddsportal.com/country-flags/6.svg",
+    "leagues": [
+      {
+        "name": "Euroleague (4)",
+        "alt": "euroleague",
+        "url": "https://www.oddsportal.com/basketball/europe/euroleague/"
+      },
+      {
+        "name": "Euroleague (4)",
+        "alt": "euroleague",
+        "url": "https://www.oddsportal.com/basketball/europe/euroleague/"
+      },
+      {
+        "name": "Eurocup (3)",
+        "alt": "eurocup",
+        "url": "https://www.oddsportal.com/basketball/europe/eurocup/"
+      },
+      {
+        "name": "AdmiralBet ABA League (7)",
+        "alt": "admiralbet-aba-league",
+        "url": "https://www.oddsportal.com/basketball/europe/admiralbet-aba-league/"
+      },
+      {
+        "name": "BNXT League (9)",
+        "alt": "bnxt-league",
+        "url": "https://www.oddsportal.com/basketball/europe/bnxt-league/"
+      },
+      {
+        "name": "Latvian-Estonian League (6)",
+        "alt": "latvian-estonian-league",
+        "url": "https://www.oddsportal.com/basketball/europe/latvian-estonian-league/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Finland",
+    "url": "https://www.oddsportal.com/basketball/finland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fi.svg",
+    "leagues": [
+      {
+        "name": "Korisliiga (6)",
+        "alt": "korisliiga",
+        "url": "https://www.oddsportal.com/basketball/finland/korisliiga/"
+      },
+      {
+        "name": "I Divisioona A (4)",
+        "alt": "i-divisioona-a",
+        "url": "https://www.oddsportal.com/basketball/finland/i-divisioona-a/"
+      },
+      {
+        "name": "Korisliiga Women (3)",
+        "alt": "korisliiga-women",
+        "url": "https://www.oddsportal.com/basketball/finland/korisliiga-women/"
+      },
+      {
+        "name": "I Divisioona Women (2)",
+        "alt": "i-divisioona-women",
+        "url": "https://www.oddsportal.com/basketball/finland/i-divisioona-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "France",
+    "url": "https://www.oddsportal.com/basketball/france/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fr.svg",
+    "leagues": [
+      {
+        "name": "LNB (7)",
+        "alt": "lnb",
+        "url": "https://www.oddsportal.com/basketball/france/lnb/"
+      },
+      {
+        "name": "Elite 2 (10)",
+        "alt": "elite-2",
+        "url": "https://www.oddsportal.com/basketball/france/elite-2/"
+      },
+      {
+        "name": "LFB Women (6)",
+        "alt": "lfb-women",
+        "url": "https://www.oddsportal.com/basketball/france/lfb-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Georgia",
+    "url": "https://www.oddsportal.com/basketball/georgia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ge.svg",
+    "leagues": [
+      {
+        "name": "Superleague (4)",
+        "alt": "superleague",
+        "url": "https://www.oddsportal.com/basketball/georgia/superleague/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Germany",
+    "url": "https://www.oddsportal.com/basketball/germany/",
+    "flag": "https://cci2.oddsportal.com/country-flags/de.svg",
+    "leagues": [
+      {
+        "name": "BBL (10)",
+        "alt": "bbl",
+        "url": "https://www.oddsportal.com/basketball/germany/bbl/"
+      },
+      {
+        "name": "BBL (10)",
+        "alt": "bbl",
+        "url": "https://www.oddsportal.com/basketball/germany/bbl/"
+      },
+      {
+        "name": "Pro A (7)",
+        "alt": "pro-a",
+        "url": "https://www.oddsportal.com/basketball/germany/pro-a/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Greece",
+    "url": "https://www.oddsportal.com/basketball/greece/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gr.svg",
+    "leagues": [
+      {
+        "name": "Basket League (6)",
+        "alt": "basket-league",
+        "url": "https://www.oddsportal.com/basketball/greece/basket-league/"
+      },
+      {
+        "name": "Elite League (6)",
+        "alt": "elite-league",
+        "url": "https://www.oddsportal.com/basketball/greece/elite-league/"
+      },
+      {
+        "name": "A1 Women (3)",
+        "alt": "a1-women",
+        "url": "https://www.oddsportal.com/basketball/greece/a1-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Hungary",
+    "url": "https://www.oddsportal.com/basketball/hungary/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hu.svg",
+    "leagues": [
+      {
+        "name": "NB I. A (8)",
+        "alt": "nb-i-a",
+        "url": "https://www.oddsportal.com/basketball/hungary/nb-i-a/"
+      },
+      {
+        "name": "NB I. A Women (7)",
+        "alt": "nb-i-a-women",
+        "url": "https://www.oddsportal.com/basketball/hungary/nb-i-a-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Iceland",
+    "url": "https://www.oddsportal.com/basketball/iceland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/is.svg",
+    "leagues": [
+      {
+        "name": "Premier League (6)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/basketball/iceland/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Israel",
+    "url": "https://www.oddsportal.com/basketball/israel/",
+    "flag": "https://cci2.oddsportal.com/country-flags/il.svg",
+    "leagues": [
+      {
+        "name": "Super League (2)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/basketball/israel/super-league/"
+      },
+      {
+        "name": "Liga Leumit (5)",
+        "alt": "liga-leumit",
+        "url": "https://www.oddsportal.com/basketball/israel/liga-leumit/"
+      },
+      {
+        "name": "WBL Women (1)",
+        "alt": "wbl-women",
+        "url": "https://www.oddsportal.com/basketball/israel/wbl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Italy",
+    "url": "https://www.oddsportal.com/basketball/italy/",
+    "flag": "https://cci2.oddsportal.com/country-flags/it.svg",
+    "leagues": [
+      {
+        "name": "Lega A (8)",
+        "alt": "lega-a",
+        "url": "https://www.oddsportal.com/basketball/italy/lega-a/"
+      },
+      {
+        "name": "Serie A2 (12)",
+        "alt": "serie-a2",
+        "url": "https://www.oddsportal.com/basketball/italy/serie-a2/"
+      },
+      {
+        "name": "Serie A1 Women (4)",
+        "alt": "serie-a1-women",
+        "url": "https://www.oddsportal.com/basketball/italy/serie-a1-women/"
+      },
+      {
+        "name": "Serie A2 Women - Gr. A (6)",
+        "alt": "serie-a2-women-gr-a",
+        "url": "https://www.oddsportal.com/basketball/italy/serie-a2-women-gr-a/"
+      },
+      {
+        "name": "Serie A2 Women - Gr. B (6)",
+        "alt": "serie-a2-women-gr-b",
+        "url": "https://www.oddsportal.com/basketball/italy/serie-a2-women-gr-b/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Japan",
+    "url": "https://www.oddsportal.com/basketball/japan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/jp.svg",
+    "leagues": [
+      {
+        "name": "B.League (14)",
+        "alt": "b-league",
+        "url": "https://www.oddsportal.com/basketball/japan/b-league/"
+      },
+      {
+        "name": "B2.League (8)",
+        "alt": "b2-league",
+        "url": "https://www.oddsportal.com/basketball/japan/b2-league/"
+      },
+      {
+        "name": "W League Women (3)",
+        "alt": "w-league-women",
+        "url": "https://www.oddsportal.com/basketball/japan/w-league-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Kosovo",
+    "url": "https://www.oddsportal.com/basketball/kosovo/",
+    "flag": "https://cci2.oddsportal.com/country-flags/xk.svg",
+    "leagues": [
+      {
+        "name": "Superliga (4)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/basketball/kosovo/superliga/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Lebanon",
+    "url": "https://www.oddsportal.com/basketball/lebanon/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lb.svg",
+    "leagues": [
+      {
+        "name": "Division 1 (2)",
+        "alt": "division-1",
+        "url": "https://www.oddsportal.com/basketball/lebanon/division-1/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Lithuania",
+    "url": "https://www.oddsportal.com/basketball/lithuania/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lt.svg",
+    "leagues": [
+      {
+        "name": "LKL (2)",
+        "alt": "lkl",
+        "url": "https://www.oddsportal.com/basketball/lithuania/lkl/"
+      },
+      {
+        "name": "NKL (7)",
+        "alt": "nkl",
+        "url": "https://www.oddsportal.com/basketball/lithuania/nkl/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Netherlands",
+    "url": "https://www.oddsportal.com/basketball/netherlands/",
+    "flag": "https://cci2.oddsportal.com/country-flags/nl.svg",
+    "leagues": [
+      {
+        "name": "WBL Women (5)",
+        "alt": "wbl-women",
+        "url": "https://www.oddsportal.com/basketball/netherlands/wbl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "New Zealand",
+    "url": "https://www.oddsportal.com/basketball/new-zealand/",
+    "flag": "https://cci2.oddsportal.com/country-flags/nz.svg",
+    "leagues": [
+      {
+        "name": "Tauihi Women (2)",
+        "alt": "tauihi-women",
+        "url": "https://www.oddsportal.com/basketball/new-zealand/tauihi-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Norway",
+    "url": "https://www.oddsportal.com/basketball/norway/",
+    "flag": "https://cci2.oddsportal.com/country-flags/no.svg",
+    "leagues": [
+      {
+        "name": "BLNO (2)",
+        "alt": "blno",
+        "url": "https://www.oddsportal.com/basketball/norway/blno/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Philippines",
+    "url": "https://www.oddsportal.com/basketball/philippines/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ph.svg",
+    "leagues": [
+      {
+        "name": "PBA Philippine Cup (8)",
+        "alt": "pba-philippine-cup",
+        "url": "https://www.oddsportal.com/basketball/philippines/pba-philippine-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Poland",
+    "url": "https://www.oddsportal.com/basketball/poland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pl.svg",
+    "leagues": [
+      {
+        "name": "Basket Liga (4)",
+        "alt": "basket-liga",
+        "url": "https://www.oddsportal.com/basketball/poland/basket-liga/"
+      },
+      {
+        "name": "1. Liga (5)",
+        "alt": "1-liga",
+        "url": "https://www.oddsportal.com/basketball/poland/1-liga/"
+      },
+      {
+        "name": "Basket Liga Women (6)",
+        "alt": "basket-liga-women",
+        "url": "https://www.oddsportal.com/basketball/poland/basket-liga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Portugal",
+    "url": "https://www.oddsportal.com/basketball/portugal/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pt.svg",
+    "leagues": [
+      {
+        "name": "LPB (6)",
+        "alt": "lpb",
+        "url": "https://www.oddsportal.com/basketball/portugal/lpb/"
+      },
+      {
+        "name": "Proliga (3)",
+        "alt": "proliga",
+        "url": "https://www.oddsportal.com/basketball/portugal/proliga/"
+      },
+      {
+        "name": "LFB Women (6)",
+        "alt": "lfb-women",
+        "url": "https://www.oddsportal.com/basketball/portugal/lfb-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Qatar",
+    "url": "https://www.oddsportal.com/basketball/qatar/",
+    "flag": "https://cci2.oddsportal.com/country-flags/qa.svg",
+    "leagues": [
+      {
+        "name": "QBL (2)",
+        "alt": "qbl",
+        "url": "https://www.oddsportal.com/basketball/qatar/qbl/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Romania",
+    "url": "https://www.oddsportal.com/basketball/romania/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ro.svg",
+    "leagues": [
+      {
+        "name": "Divizia A (4)",
+        "alt": "divizia-a",
+        "url": "https://www.oddsportal.com/basketball/romania/divizia-a/"
+      },
+      {
+        "name": "Liga National Women (2)",
+        "alt": "liga-national-women",
+        "url": "https://www.oddsportal.com/basketball/romania/liga-national-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Russia",
+    "url": "https://www.oddsportal.com/basketball/russia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ru.svg",
+    "leagues": [
+      {
+        "name": "VTB United League (4)",
+        "alt": "vtb-united-league",
+        "url": "https://www.oddsportal.com/basketball/russia/vtb-united-league/"
+      },
+      {
+        "name": "Super League (3)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/basketball/russia/super-league/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Saudi Arabia",
+    "url": "https://www.oddsportal.com/basketball/saudi-arabia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sa.svg",
+    "leagues": [
+      {
+        "name": "Premier League (5)",
+        "alt": "premier-league",
+        "url": "https://www.oddsportal.com/basketball/saudi-arabia/premier-league/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Serbia",
+    "url": "https://www.oddsportal.com/basketball/serbia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/rs.svg",
+    "leagues": [
+      {
+        "name": "First League (2)",
+        "alt": "first-league",
+        "url": "https://www.oddsportal.com/basketball/serbia/first-league/"
+      },
+      {
+        "name": "1. ZLS Women (1)",
+        "alt": "1-zls-women",
+        "url": "https://www.oddsportal.com/basketball/serbia/1-zls-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Slovakia",
+    "url": "https://www.oddsportal.com/basketball/slovakia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sk.svg",
+    "leagues": [
+      {
+        "name": "Extraliga (4)",
+        "alt": "extraliga",
+        "url": "https://www.oddsportal.com/basketball/slovakia/extraliga/"
+      },
+      {
+        "name": "Extraliga Women (4)",
+        "alt": "extraliga-women",
+        "url": "https://www.oddsportal.com/basketball/slovakia/extraliga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Slovenia",
+    "url": "https://www.oddsportal.com/basketball/slovenia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/si.svg",
+    "leagues": [
+      {
+        "name": "Liga OTP banka (2)",
+        "alt": "liga-otp-banka",
+        "url": "https://www.oddsportal.com/basketball/slovenia/liga-otp-banka/"
+      },
+      {
+        "name": "1. SKL Women (3)",
+        "alt": "1-skl-women",
+        "url": "https://www.oddsportal.com/basketball/slovenia/1-skl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "South Korea",
+    "url": "https://www.oddsportal.com/basketball/south-korea/",
+    "flag": "https://cci2.oddsportal.com/country-flags/kr.svg",
+    "leagues": [
+      {
+        "name": "KBL (5)",
+        "alt": "kbl",
+        "url": "https://www.oddsportal.com/basketball/south-korea/kbl/"
+      },
+      {
+        "name": "WKBL Women (3)",
+        "alt": "wkbl-women",
+        "url": "https://www.oddsportal.com/basketball/south-korea/wkbl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Spain",
+    "url": "https://www.oddsportal.com/basketball/spain/",
+    "flag": "https://cci2.oddsportal.com/country-flags/es.svg",
+    "leagues": [
+      {
+        "name": "ACB (4)",
+        "alt": "acb",
+        "url": "https://www.oddsportal.com/basketball/spain/acb/"
+      },
+      {
+        "name": "ACB (4)",
+        "alt": "acb",
+        "url": "https://www.oddsportal.com/basketball/spain/acb/"
+      },
+      {
+        "name": "Primera FEB (8)",
+        "alt": "primera-feb",
+        "url": "https://www.oddsportal.com/basketball/spain/primera-feb/"
+      },
+      {
+        "name": "Segunda FEB (5)",
+        "alt": "segunda-feb",
+        "url": "https://www.oddsportal.com/basketball/spain/segunda-feb/"
+      },
+      {
+        "name": "Liga Femenina Women (5)",
+        "alt": "liga-femenina-women",
+        "url": "https://www.oddsportal.com/basketball/spain/liga-femenina-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Sweden",
+    "url": "https://www.oddsportal.com/basketball/sweden/",
+    "flag": "https://cci2.oddsportal.com/country-flags/se.svg",
+    "leagues": [
+      {
+        "name": "Basketligan (5)",
+        "alt": "basketligan",
+        "url": "https://www.oddsportal.com/basketball/sweden/basketligan/"
+      },
+      {
+        "name": "Superettan (7)",
+        "alt": "superettan",
+        "url": "https://www.oddsportal.com/basketball/sweden/superettan/"
+      },
+      {
+        "name": "Basketligan Women (3)",
+        "alt": "basketligan-women",
+        "url": "https://www.oddsportal.com/basketball/sweden/basketligan-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Switzerland",
+    "url": "https://www.oddsportal.com/basketball/switzerland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ch.svg",
+    "leagues": [
+      {
+        "name": "SB League (4)",
+        "alt": "sb-league",
+        "url": "https://www.oddsportal.com/basketball/switzerland/sb-league/"
+      },
+      {
+        "name": "SB League Women (2)",
+        "alt": "sb-league-women",
+        "url": "https://www.oddsportal.com/basketball/switzerland/sb-league-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Taiwan",
+    "url": "https://www.oddsportal.com/basketball/taiwan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tw.svg",
+    "leagues": [
+      {
+        "name": "TPBL (2)",
+        "alt": "tpbl",
+        "url": "https://www.oddsportal.com/basketball/taiwan/tpbl/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Turkey",
+    "url": "https://www.oddsportal.com/basketball/turkey/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tr.svg",
+    "leagues": [
+      {
+        "name": "Super Lig (8)",
+        "alt": "super-lig",
+        "url": "https://www.oddsportal.com/basketball/turkey/super-lig/"
+      },
+      {
+        "name": "Super Lig (8)",
+        "alt": "super-lig",
+        "url": "https://www.oddsportal.com/basketball/turkey/super-lig/"
+      },
+      {
+        "name": "TBL (6)",
+        "alt": "tbl",
+        "url": "https://www.oddsportal.com/basketball/turkey/tbl/"
+      },
+      {
+        "name": "TB2L (2)",
+        "alt": "tb2l",
+        "url": "https://www.oddsportal.com/basketball/turkey/tb2l/"
+      },
+      {
+        "name": "KBSL Women (5)",
+        "alt": "kbsl-women",
+        "url": "https://www.oddsportal.com/basketball/turkey/kbsl-women/"
+      },
+      {
+        "name": "TKBL Women (6)",
+        "alt": "tkbl-women",
+        "url": "https://www.oddsportal.com/basketball/turkey/tkbl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Ukraine",
+    "url": "https://www.oddsportal.com/basketball/ukraine/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ua.svg",
+    "leagues": [
+      {
+        "name": "FBU Superleague (2)",
+        "alt": "fbu-superleague",
+        "url": "https://www.oddsportal.com/basketball/ukraine/fbu-superleague/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "United Kingdom",
+    "url": "https://www.oddsportal.com/basketball/united-kingdom/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gb.svg",
+    "leagues": [
+      {
+        "name": "SLB (3)",
+        "alt": "slb",
+        "url": "https://www.oddsportal.com/basketball/united-kingdom/slb/"
+      },
+      {
+        "name": "SLB Women (1)",
+        "alt": "slb-women",
+        "url": "https://www.oddsportal.com/basketball/united-kingdom/slb-women/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "Uruguay",
+    "url": "https://www.oddsportal.com/basketball/uruguay/",
+    "flag": "https://cci2.oddsportal.com/country-flags/uy.svg",
+    "leagues": [
+      {
+        "name": "Liga Uruguaya (6)",
+        "alt": "liga-uruguaya",
+        "url": "https://www.oddsportal.com/basketball/uruguay/liga-uruguaya/"
+      }
+    ]
+  },
+  {
+    "sport": "basketball",
+    "country": "USA",
+    "url": "https://www.oddsportal.com/basketball/usa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/us.svg",
+    "leagues": [
+      {
+        "name": "NCAA (32)",
+        "alt": "ncaa",
+        "url": "https://www.oddsportal.com/basketball/usa/ncaa/"
+      },
+      {
+        "name": "NBA (33)",
+        "alt": "nba",
+        "url": "https://www.oddsportal.com/basketball/usa/nba/"
+      },
+      {
+        "name": "NBA (33)",
+        "alt": "nba",
+        "url": "https://www.oddsportal.com/basketball/usa/nba/"
+      },
+      {
+        "name": "NBA Cup (4)",
+        "alt": "nba-cup",
+        "url": "https://www.oddsportal.com/basketball/usa/nba-cup/"
+      },
+      {
+        "name": "NCAA (32)",
+        "alt": "ncaa",
+        "url": "https://www.oddsportal.com/basketball/usa/ncaa/"
+      },
+      {
+        "name": "NCAA Women (26)",
+        "alt": "ncaa-women",
+        "url": "https://www.oddsportal.com/basketball/usa/ncaa-women/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "Ecuador",
+    "url": "https://www.oddsportal.com/tennis/ecuador/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ec.svg",
+    "leagues": [
+      {
+        "name": "Challenger Women - Doubles Quito (clay) (2)",
+        "alt": "challenger-women-doubles-quito",
+        "url": "https://www.oddsportal.com/tennis/ecuador/challenger-women-doubles-quito/"
+      },
+      {
+        "name": "Challenger Women - Singles Quito (clay) (4)",
+        "alt": "challenger-women-singles-quito",
+        "url": "https://www.oddsportal.com/tennis/ecuador/challenger-women-singles-quito/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "Egypt",
+    "url": "https://www.oddsportal.com/tennis/egypt/",
+    "flag": "https://cci2.oddsportal.com/country-flags/eg.svg",
+    "leagues": [
+      {
+        "name": "ITF Men - Doubles M15 Sharm ElSheikh 20 (hard) (1)",
+        "alt": "itf-men-doubles-m15-sharm-elsheikh-20",
+        "url": "https://www.oddsportal.com/tennis/egypt/itf-men-doubles-m15-sharm-elsheikh-20/"
+      },
+      {
+        "name": "ITF Men - Singles M15 Sharm ElSheikh 20 (hard) (4)",
+        "alt": "itf-men-singles-m15-sharm-elsheikh-20",
+        "url": "https://www.oddsportal.com/tennis/egypt/itf-men-singles-m15-sharm-elsheikh-20/"
+      },
+      {
+        "name": "ITF Women - Doubles W35 Sharm ElSheikh 3 (hard) (2)",
+        "alt": "itf-women-doubles-w35-sharm-elsheikh-3",
+        "url": "https://www.oddsportal.com/tennis/egypt/itf-women-doubles-w35-sharm-elsheikh-3/"
+      },
+      {
+        "name": "ITF Women - Singles W35 Sharm ElSheikh 3 (hard) (4)",
+        "alt": "itf-women-singles-w35-sharm-elsheikh-3",
+        "url": "https://www.oddsportal.com/tennis/egypt/itf-women-singles-w35-sharm-elsheikh-3/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "France",
+    "url": "https://www.oddsportal.com/tennis/france/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fr.svg",
+    "leagues": [
+      {
+        "name": "Challenger Women - Doubles Angers (hard) (3)",
+        "alt": "challenger-women-doubles-angers",
+        "url": "https://www.oddsportal.com/tennis/france/challenger-women-doubles-angers/"
+      },
+      {
+        "name": "Challenger Women - Singles Angers (hard) (4)",
+        "alt": "challenger-women-singles-angers",
+        "url": "https://www.oddsportal.com/tennis/france/challenger-women-singles-angers/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "India",
+    "url": "https://www.oddsportal.com/tennis/india/",
+    "flag": "https://cci2.oddsportal.com/country-flags/in.svg",
+    "leagues": [
+      {
+        "name": "ITF Men - Doubles M15 Gwalior (hard) (1)",
+        "alt": "itf-men-doubles-m15-gwalior",
+        "url": "https://www.oddsportal.com/tennis/india/itf-men-doubles-m15-gwalior/"
+      },
+      {
+        "name": "ITF Men - Singles M15 Gwalior (hard) (3)",
+        "alt": "itf-men-singles-m15-gwalior",
+        "url": "https://www.oddsportal.com/tennis/india/itf-men-singles-m15-gwalior/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "Italy",
+    "url": "https://www.oddsportal.com/tennis/italy/",
+    "flag": "https://cci2.oddsportal.com/country-flags/it.svg",
+    "leagues": [
+      {
+        "name": "ITF Women - Doubles W50 Selva Gardena (hard) (1)",
+        "alt": "itf-women-doubles-w50-selva-gardena",
+        "url": "https://www.oddsportal.com/tennis/italy/itf-women-doubles-w50-selva-gardena/"
+      },
+      {
+        "name": "ITF Women - Singles W50 Selva Gardena (hard) (2)",
+        "alt": "itf-women-singles-w50-selva-gardena",
+        "url": "https://www.oddsportal.com/tennis/italy/itf-women-singles-w50-selva-gardena/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "Peru",
+    "url": "https://www.oddsportal.com/tennis/peru/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pe.svg",
+    "leagues": [
+      {
+        "name": "ITF Men - Doubles M15 Lima (clay) (2)",
+        "alt": "itf-men-doubles-m15-lima",
+        "url": "https://www.oddsportal.com/tennis/peru/itf-men-doubles-m15-lima/"
+      },
+      {
+        "name": "ITF Men - Singles M15 Lima (clay) (4)",
+        "alt": "itf-men-singles-m15-lima",
+        "url": "https://www.oddsportal.com/tennis/peru/itf-men-singles-m15-lima/"
+      },
+      {
+        "name": "ITF Women - Doubles W15 Lima (clay) (2)",
+        "alt": "itf-women-doubles-w15-lima",
+        "url": "https://www.oddsportal.com/tennis/peru/itf-women-doubles-w15-lima/"
+      },
+      {
+        "name": "ITF Women - Singles W15 Lima (clay) (4)",
+        "alt": "itf-women-singles-w15-lima",
+        "url": "https://www.oddsportal.com/tennis/peru/itf-women-singles-w15-lima/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "Spain",
+    "url": "https://www.oddsportal.com/tennis/spain/",
+    "flag": "https://cci2.oddsportal.com/country-flags/es.svg",
+    "leagues": [
+      {
+        "name": "ITF Men - Doubles M15 Madrid 4 (clay) (1)",
+        "alt": "itf-men-doubles-m15-madrid-4",
+        "url": "https://www.oddsportal.com/tennis/spain/itf-men-doubles-m15-madrid-4/"
+      },
+      {
+        "name": "ITF Men - Singles M15 Madrid 4 (clay) (4)",
+        "alt": "itf-men-singles-m15-madrid-4",
+        "url": "https://www.oddsportal.com/tennis/spain/itf-men-singles-m15-madrid-4/"
+      },
+      {
+        "name": "ITF Women - Doubles W15 Melilla (clay) (1)",
+        "alt": "itf-women-doubles-w15-melilla",
+        "url": "https://www.oddsportal.com/tennis/spain/itf-women-doubles-w15-melilla/"
+      },
+      {
+        "name": "ITF Women - Singles W15 Melilla (clay) (6)",
+        "alt": "itf-women-singles-w15-melilla",
+        "url": "https://www.oddsportal.com/tennis/spain/itf-women-singles-w15-melilla/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "Tunisia",
+    "url": "https://www.oddsportal.com/tennis/tunisia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tn.svg",
+    "leagues": [
+      {
+        "name": "ITF Men - Doubles M15 Monastir 44 (hard) (2)",
+        "alt": "itf-men-doubles-m15-monastir-44",
+        "url": "https://www.oddsportal.com/tennis/tunisia/itf-men-doubles-m15-monastir-44/"
+      },
+      {
+        "name": "ITF Men - Singles M15 Monastir 44 (hard) (4)",
+        "alt": "itf-men-singles-m15-monastir-44",
+        "url": "https://www.oddsportal.com/tennis/tunisia/itf-men-singles-m15-monastir-44/"
+      },
+      {
+        "name": "ITF Women - Doubles W35 Monastir 8 (hard) (2)",
+        "alt": "itf-women-doubles-w35-monastir-8",
+        "url": "https://www.oddsportal.com/tennis/tunisia/itf-women-doubles-w35-monastir-8/"
+      },
+      {
+        "name": "ITF Women - Singles W35 Monastir 8 (hard) (4)",
+        "alt": "itf-women-singles-w35-monastir-8",
+        "url": "https://www.oddsportal.com/tennis/tunisia/itf-women-singles-w35-monastir-8/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "Turkey",
+    "url": "https://www.oddsportal.com/tennis/turkey/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tr.svg",
+    "leagues": [
+      {
+        "name": "ITF Men - Doubles M15 Antalya 15 (clay) (2)",
+        "alt": "itf-men-doubles-m15-antalya-15",
+        "url": "https://www.oddsportal.com/tennis/turkey/itf-men-doubles-m15-antalya-15/"
+      },
+      {
+        "name": "ITF Men - Singles M15 Antalya 15 (clay) (4)",
+        "alt": "itf-men-singles-m15-antalya-15",
+        "url": "https://www.oddsportal.com/tennis/turkey/itf-men-singles-m15-antalya-15/"
+      },
+      {
+        "name": "ITF Women - Doubles W15 Antalya 15 (clay) (2)",
+        "alt": "itf-women-doubles-w15-antalya-15",
+        "url": "https://www.oddsportal.com/tennis/turkey/itf-women-doubles-w15-antalya-15/"
+      },
+      {
+        "name": "ITF Women - Singles W15 Antalya 15 (clay) (4)",
+        "alt": "itf-women-singles-w15-antalya-15",
+        "url": "https://www.oddsportal.com/tennis/turkey/itf-women-singles-w15-antalya-15/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "United Arab Emirates",
+    "url": "https://www.oddsportal.com/tennis/united-arab-emirates/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ae.svg",
+    "leagues": [
+      {
+        "name": "ITF Women - Doubles W100 Dubai (hard) (2)",
+        "alt": "itf-women-doubles-w100-dubai",
+        "url": "https://www.oddsportal.com/tennis/united-arab-emirates/itf-women-doubles-w100-dubai/"
+      },
+      {
+        "name": "ITF Women - Singles W100 Dubai (hard) (6)",
+        "alt": "itf-women-singles-w100-dubai",
+        "url": "https://www.oddsportal.com/tennis/united-arab-emirates/itf-women-singles-w100-dubai/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "USA",
+    "url": "https://www.oddsportal.com/tennis/usa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/us.svg",
+    "leagues": [
+      {
+        "name": "ITF Women - Doubles W35 Daytona Beach, FL (clay) (2)",
+        "alt": "itf-women-doubles-w35-daytona-beach-fl",
+        "url": "https://www.oddsportal.com/tennis/usa/itf-women-doubles-w35-daytona-beach-fl/"
+      },
+      {
+        "name": "ITF Women - Singles W35 Daytona Beach, FL (clay) (3)",
+        "alt": "itf-women-singles-w35-daytona-beach-fl",
+        "url": "https://www.oddsportal.com/tennis/usa/itf-women-singles-w35-daytona-beach-fl/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "Vietnam",
+    "url": "https://www.oddsportal.com/tennis/vietnam/",
+    "flag": "https://cci2.oddsportal.com/country-flags/vn.svg",
+    "leagues": [
+      {
+        "name": "ITF Men - Doubles M15 Phan Thiet 2 (hard) (2)",
+        "alt": "itf-men-doubles-m15-phan-thiet-2",
+        "url": "https://www.oddsportal.com/tennis/vietnam/itf-men-doubles-m15-phan-thiet-2/"
+      },
+      {
+        "name": "ITF Men - Singles M15 Phan Thiet 2 (hard) (4)",
+        "alt": "itf-men-singles-m15-phan-thiet-2",
+        "url": "https://www.oddsportal.com/tennis/vietnam/itf-men-singles-m15-phan-thiet-2/"
+      }
+    ]
+  },
+  {
+    "sport": "tennis",
+    "country": "World",
+    "url": "https://www.oddsportal.com/tennis/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "Exhibition - Men Others matches (6)",
+        "alt": "exhibition-men-others-matches",
+        "url": "https://www.oddsportal.com/tennis/world/exhibition-men-others-matches/"
+      },
+      {
+        "name": "Exhibition - Women Others matches (2)",
+        "alt": "exhibition-women-others-matches",
+        "url": "https://www.oddsportal.com/tennis/world/exhibition-women-others-matches/"
+      }
+    ]
+  },
+  {
+    "sport": "baseball",
+    "country": "Australia",
+    "url": "https://www.oddsportal.com/baseball/australia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/au.svg",
+    "leagues": [
+      {
+        "name": "ABL (5)",
+        "alt": "abl",
+        "url": "https://www.oddsportal.com/baseball/australia/abl/"
+      }
+    ]
+  },
+  {
+    "sport": "baseball",
+    "country": "Dominican Republic",
+    "url": "https://www.oddsportal.com/baseball/dominican-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/do.svg",
+    "leagues": [
+      {
+        "name": "LIDOM (5)",
+        "alt": "lidom",
+        "url": "https://www.oddsportal.com/baseball/dominican-republic/lidom/"
+      }
+    ]
+  },
+  {
+    "sport": "baseball",
+    "country": "Mexico",
+    "url": "https://www.oddsportal.com/baseball/mexico/",
+    "flag": "https://cci2.oddsportal.com/country-flags/mx.svg",
+    "leagues": [
+      {
+        "name": "LMP (6)",
+        "alt": "lmp",
+        "url": "https://www.oddsportal.com/baseball/mexico/lmp/"
+      }
+    ]
+  },
+  {
+    "sport": "baseball",
+    "country": "Venezuela",
+    "url": "https://www.oddsportal.com/baseball/venezuela/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ve.svg",
+    "leagues": [
+      {
+        "name": "LVBP (1)",
+        "alt": "lvbp",
+        "url": "https://www.oddsportal.com/baseball/venezuela/lvbp/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Asia",
+    "url": "https://www.oddsportal.com/hockey/asia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/5.svg",
+    "leagues": [
+      {
+        "name": "Asia League (3)",
+        "alt": "asia-league",
+        "url": "https://www.oddsportal.com/hockey/asia/asia-league/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Austria",
+    "url": "https://www.oddsportal.com/hockey/austria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/at.svg",
+    "leagues": [
+      {
+        "name": "ICE Hockey League (7)",
+        "alt": "ice-hockey-league",
+        "url": "https://www.oddsportal.com/hockey/austria/ice-hockey-league/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Belarus",
+    "url": "https://www.oddsportal.com/hockey/belarus/",
+    "flag": "https://cci2.oddsportal.com/country-flags/by.svg",
+    "leagues": [
+      {
+        "name": "Extraleague (10)",
+        "alt": "extraleague",
+        "url": "https://www.oddsportal.com/hockey/belarus/extraleague/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Canada",
+    "url": "https://www.oddsportal.com/hockey/canada/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ca.svg",
+    "leagues": [
+      {
+        "name": "OHL (12)",
+        "alt": "ohl",
+        "url": "https://www.oddsportal.com/hockey/canada/ohl/"
+      },
+      {
+        "name": "WHL (10)",
+        "alt": "whl",
+        "url": "https://www.oddsportal.com/hockey/canada/whl/"
+      },
+      {
+        "name": "QMJHL (10)",
+        "alt": "qmjhl",
+        "url": "https://www.oddsportal.com/hockey/canada/qmjhl/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Czech Republic",
+    "url": "https://www.oddsportal.com/hockey/czech-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cz.svg",
+    "leagues": [
+      {
+        "name": "Extraliga (7)",
+        "alt": "extraliga",
+        "url": "https://www.oddsportal.com/hockey/czech-republic/extraliga/"
+      },
+      {
+        "name": "Maxa liga (10)",
+        "alt": "maxa-liga",
+        "url": "https://www.oddsportal.com/hockey/czech-republic/maxa-liga/"
+      },
+      {
+        "name": "ELJ (9)",
+        "alt": "elj",
+        "url": "https://www.oddsportal.com/hockey/czech-republic/elj/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Denmark",
+    "url": "https://www.oddsportal.com/hockey/denmark/",
+    "flag": "https://cci2.oddsportal.com/country-flags/dk.svg",
+    "leagues": [
+      {
+        "name": "Metal Ligaen (5)",
+        "alt": "metal-ligaen",
+        "url": "https://www.oddsportal.com/hockey/denmark/metal-ligaen/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Europe",
+    "url": "https://www.oddsportal.com/hockey/europe/",
+    "flag": "https://cci2.oddsportal.com/country-flags/6.svg",
+    "leagues": [
+      {
+        "name": "Swiss Ice Hockey Games (6)",
+        "alt": "swiss-ice-hockey-games",
+        "url": "https://www.oddsportal.com/hockey/europe/swiss-ice-hockey-games/"
+      },
+      {
+        "name": "Channel One Cup (3)",
+        "alt": "channel-one-cup",
+        "url": "https://www.oddsportal.com/hockey/europe/channel-one-cup/"
+      },
+      {
+        "name": "Alps Hockey League (9)",
+        "alt": "alps-hockey-league",
+        "url": "https://www.oddsportal.com/hockey/europe/alps-hockey-league/"
+      },
+      {
+        "name": "CEHL (1)",
+        "alt": "cehl",
+        "url": "https://www.oddsportal.com/hockey/europe/cehl/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Finland",
+    "url": "https://www.oddsportal.com/hockey/finland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fi.svg",
+    "leagues": [
+      {
+        "name": "Liiga (10)",
+        "alt": "liiga",
+        "url": "https://www.oddsportal.com/hockey/finland/liiga/"
+      },
+      {
+        "name": "Mestis (7)",
+        "alt": "mestis",
+        "url": "https://www.oddsportal.com/hockey/finland/mestis/"
+      },
+      {
+        "name": "SM-sarja U20 (9)",
+        "alt": "sm-sarja-u20",
+        "url": "https://www.oddsportal.com/hockey/finland/sm-sarja-u20/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "France",
+    "url": "https://www.oddsportal.com/hockey/france/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fr.svg",
+    "leagues": [
+      {
+        "name": "Ligue Magnus (7)",
+        "alt": "ligue-magnus",
+        "url": "https://www.oddsportal.com/hockey/france/ligue-magnus/"
+      },
+      {
+        "name": "D1 (1)",
+        "alt": "d1",
+        "url": "https://www.oddsportal.com/hockey/france/d1/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Germany",
+    "url": "https://www.oddsportal.com/hockey/germany/",
+    "flag": "https://cci2.oddsportal.com/country-flags/de.svg",
+    "leagues": [
+      {
+        "name": "DEL (7)",
+        "alt": "del",
+        "url": "https://www.oddsportal.com/hockey/germany/del/"
+      },
+      {
+        "name": "DEL2 (6)",
+        "alt": "del2",
+        "url": "https://www.oddsportal.com/hockey/germany/del2/"
+      },
+      {
+        "name": "Oberliga North (1)",
+        "alt": "oberliga-north",
+        "url": "https://www.oddsportal.com/hockey/germany/oberliga-north/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Hungary",
+    "url": "https://www.oddsportal.com/hockey/hungary/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hu.svg",
+    "leagues": [
+      {
+        "name": "Erste Liga (2)",
+        "alt": "erste-liga",
+        "url": "https://www.oddsportal.com/hockey/hungary/erste-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Kazakhstan",
+    "url": "https://www.oddsportal.com/hockey/kazakhstan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/kz.svg",
+    "leagues": [
+      {
+        "name": "Championship (3)",
+        "alt": "championship",
+        "url": "https://www.oddsportal.com/hockey/kazakhstan/championship/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Latvia",
+    "url": "https://www.oddsportal.com/hockey/latvia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lv.svg",
+    "leagues": [
+      {
+        "name": "Optibet Hokeja Liga (5)",
+        "alt": "optibet-hokeja-liga",
+        "url": "https://www.oddsportal.com/hockey/latvia/optibet-hokeja-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Norway",
+    "url": "https://www.oddsportal.com/hockey/norway/",
+    "flag": "https://cci2.oddsportal.com/country-flags/no.svg",
+    "leagues": [
+      {
+        "name": "EHL (10)",
+        "alt": "ehl",
+        "url": "https://www.oddsportal.com/hockey/norway/ehl/"
+      },
+      {
+        "name": "Division 1 (2)",
+        "alt": "division-1",
+        "url": "https://www.oddsportal.com/hockey/norway/division-1/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Poland",
+    "url": "https://www.oddsportal.com/hockey/poland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pl.svg",
+    "leagues": [
+      {
+        "name": "Polish Hockey League (4)",
+        "alt": "polish-hockey-league",
+        "url": "https://www.oddsportal.com/hockey/poland/polish-hockey-league/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Russia",
+    "url": "https://www.oddsportal.com/hockey/russia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ru.svg",
+    "leagues": [
+      {
+        "name": "KHL (26)",
+        "alt": "khl",
+        "url": "https://www.oddsportal.com/hockey/russia/khl/"
+      },
+      {
+        "name": "VHL (20)",
+        "alt": "vhl",
+        "url": "https://www.oddsportal.com/hockey/russia/vhl/"
+      },
+      {
+        "name": "MHL (20)",
+        "alt": "mhl",
+        "url": "https://www.oddsportal.com/hockey/russia/mhl/"
+      },
+      {
+        "name": "NMHL (3)",
+        "alt": "nmhl",
+        "url": "https://www.oddsportal.com/hockey/russia/nmhl/"
+      },
+      {
+        "name": "WHL Women (2)",
+        "alt": "whl-women",
+        "url": "https://www.oddsportal.com/hockey/russia/whl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Slovakia",
+    "url": "https://www.oddsportal.com/hockey/slovakia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sk.svg",
+    "leagues": [
+      {
+        "name": "Tipsport liga (6)",
+        "alt": "tipsport-liga",
+        "url": "https://www.oddsportal.com/hockey/slovakia/tipsport-liga/"
+      },
+      {
+        "name": "1. Liga (6)",
+        "alt": "1-liga",
+        "url": "https://www.oddsportal.com/hockey/slovakia/1-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Sweden",
+    "url": "https://www.oddsportal.com/hockey/sweden/",
+    "flag": "https://cci2.oddsportal.com/country-flags/se.svg",
+    "leagues": [
+      {
+        "name": "SHL (14)",
+        "alt": "shl",
+        "url": "https://www.oddsportal.com/hockey/sweden/shl/"
+      },
+      {
+        "name": "HockeyAllsvenskan (7)",
+        "alt": "hockeyallsvenskan",
+        "url": "https://www.oddsportal.com/hockey/sweden/hockeyallsvenskan/"
+      },
+      {
+        "name": "HockeyEttan Norra (6)",
+        "alt": "hockeyettan-norra",
+        "url": "https://www.oddsportal.com/hockey/sweden/hockeyettan-norra/"
+      },
+      {
+        "name": "HockeyEttan Sodra (8)",
+        "alt": "hockeyettan-sodra",
+        "url": "https://www.oddsportal.com/hockey/sweden/hockeyettan-sodra/"
+      },
+      {
+        "name": "SuperElit U20 (1)",
+        "alt": "superelit-u20",
+        "url": "https://www.oddsportal.com/hockey/sweden/superelit-u20/"
+      },
+      {
+        "name": "SDHL Women (6)",
+        "alt": "sdhl-women",
+        "url": "https://www.oddsportal.com/hockey/sweden/sdhl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "Switzerland",
+    "url": "https://www.oddsportal.com/hockey/switzerland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ch.svg",
+    "leagues": [
+      {
+        "name": "National League (13)",
+        "alt": "national-league",
+        "url": "https://www.oddsportal.com/hockey/switzerland/national-league/"
+      },
+      {
+        "name": "Swiss League (6)",
+        "alt": "swiss-league",
+        "url": "https://www.oddsportal.com/hockey/switzerland/swiss-league/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "United Kingdom",
+    "url": "https://www.oddsportal.com/hockey/united-kingdom/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gb.svg",
+    "leagues": [
+      {
+        "name": "Elite League (4)",
+        "alt": "elite-league",
+        "url": "https://www.oddsportal.com/hockey/united-kingdom/elite-league/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "USA",
+    "url": "https://www.oddsportal.com/hockey/usa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/us.svg",
+    "leagues": [
+      {
+        "name": "NHL (35)",
+        "alt": "nhl",
+        "url": "https://www.oddsportal.com/hockey/usa/nhl/"
+      },
+      {
+        "name": "AHL (16)",
+        "alt": "ahl",
+        "url": "https://www.oddsportal.com/hockey/usa/ahl/"
+      },
+      {
+        "name": "ECHL (3)",
+        "alt": "echl",
+        "url": "https://www.oddsportal.com/hockey/usa/echl/"
+      },
+      {
+        "name": "NCAA (5)",
+        "alt": "ncaa",
+        "url": "https://www.oddsportal.com/hockey/usa/ncaa/"
+      },
+      {
+        "name": "PWHL Women (4)",
+        "alt": "pwhl-women",
+        "url": "https://www.oddsportal.com/hockey/usa/pwhl-women/"
+      }
+    ]
+  },
+  {
+    "sport": "hockey",
+    "country": "World",
+    "url": "https://www.oddsportal.com/hockey/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "Friendly International (1)",
+        "alt": "friendly-international",
+        "url": "https://www.oddsportal.com/hockey/world/friendly-international/"
+      }
+    ]
+  },
+  {
+    "sport": "american-football",
+    "country": "USA",
+    "url": "https://www.oddsportal.com/american-football/usa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/us.svg",
+    "leagues": [
+      {
+        "name": "NFL (51)",
+        "alt": "nfl",
+        "url": "https://www.oddsportal.com/american-football/usa/nfl/"
+      },
+      {
+        "name": "NCAA (10)",
+        "alt": "ncaa",
+        "url": "https://www.oddsportal.com/american-football/usa/ncaa/"
+      }
+    ]
+  },
+  {
+    "sport": "aussie-rules",
+    "country": "Australia",
+    "url": "https://www.oddsportal.com/aussie-rules/australia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/au.svg",
+    "leagues": [
+      {
+        "name": "AFL (7)",
+        "alt": "afl",
+        "url": "https://www.oddsportal.com/aussie-rules/australia/afl/"
+      }
+    ]
+  },
+  {
+    "sport": "badminton",
+    "country": "India",
+    "url": "https://www.oddsportal.com/badminton/india/",
+    "flag": "https://cci2.oddsportal.com/country-flags/in.svg",
+    "leagues": [
+      {
+        "name": "BWF World Tour - Doubles Men Guwahati Masters (4)",
+        "alt": "bwf-world-tour-doubles-men-guwahati-masters",
+        "url": "https://www.oddsportal.com/badminton/india/bwf-world-tour-doubles-men-guwahati-masters/"
+      },
+      {
+        "name": "BWF World Tour - Doubles Women Guwahati Masters (4)",
+        "alt": "bwf-world-tour-doubles-women-guwahati-masters",
+        "url": "https://www.oddsportal.com/badminton/india/bwf-world-tour-doubles-women-guwahati-masters/"
+      },
+      {
+        "name": "BWF World Tour - Men Guwahati Masters (4)",
+        "alt": "bwf-world-tour-men-guwahati-masters",
+        "url": "https://www.oddsportal.com/badminton/india/bwf-world-tour-men-guwahati-masters/"
+      },
+      {
+        "name": "BWF World Tour - Mixed Doubles Guwahati Masters (5)",
+        "alt": "bwf-world-tour-mixed-doubles-guwahati-masters",
+        "url": "https://www.oddsportal.com/badminton/india/bwf-world-tour-mixed-doubles-guwahati-masters/"
+      },
+      {
+        "name": "BWF World Tour - Women Guwahati Masters (4)",
+        "alt": "bwf-world-tour-women-guwahati-masters",
+        "url": "https://www.oddsportal.com/badminton/india/bwf-world-tour-women-guwahati-masters/"
+      }
+    ]
+  },
+  {
+    "sport": "bandy",
+    "country": "Finland",
+    "url": "https://www.oddsportal.com/bandy/finland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fi.svg",
+    "leagues": [
+      {
+        "name": "Bandyliiga (3)",
+        "alt": "bandyliiga",
+        "url": "https://www.oddsportal.com/bandy/finland/bandyliiga/"
+      }
+    ]
+  },
+  {
+    "sport": "bandy",
+    "country": "Norway",
+    "url": "https://www.oddsportal.com/bandy/norway/",
+    "flag": "https://cci2.oddsportal.com/country-flags/no.svg",
+    "leagues": [
+      {
+        "name": "Eliteserien (2)",
+        "alt": "eliteserien",
+        "url": "https://www.oddsportal.com/bandy/norway/eliteserien/"
+      }
+    ]
+  },
+  {
+    "sport": "bandy",
+    "country": "Russia",
+    "url": "https://www.oddsportal.com/bandy/russia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ru.svg",
+    "leagues": [
+      {
+        "name": "Super League (4)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/bandy/russia/super-league/"
+      }
+    ]
+  },
+  {
+    "sport": "bandy",
+    "country": "Sweden",
+    "url": "https://www.oddsportal.com/bandy/sweden/",
+    "flag": "https://cci2.oddsportal.com/country-flags/se.svg",
+    "leagues": [
+      {
+        "name": "Elitserien (7)",
+        "alt": "elitserien",
+        "url": "https://www.oddsportal.com/bandy/sweden/elitserien/"
+      },
+      {
+        "name": "Allsvenskan (5)",
+        "alt": "allsvenskan",
+        "url": "https://www.oddsportal.com/bandy/sweden/allsvenskan/"
+      }
+    ]
+  },
+  {
+    "sport": "beach-volleyball",
+    "country": "Brazil",
+    "url": "https://www.oddsportal.com/beach-volleyball/brazil/",
+    "flag": "https://cci2.oddsportal.com/country-flags/br.svg",
+    "leagues": [
+      {
+        "name": "Itapema Men (12)",
+        "alt": "itapema-men",
+        "url": "https://www.oddsportal.com/beach-volleyball/brazil/itapema-men/"
+      },
+      {
+        "name": "Itapema Women (12)",
+        "alt": "itapema-women",
+        "url": "https://www.oddsportal.com/beach-volleyball/brazil/itapema-women/"
+      }
+    ]
+  },
+  {
+    "sport": "boxing",
+    "country": "World",
+    "url": "https://www.oddsportal.com/boxing/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "Bantamweight - IBF/WBC/WBO Titles Women (1)",
+        "alt": "bantamweight-ibf-wbc-wbo-titles-women",
+        "url": "https://www.oddsportal.com/boxing/world/bantamweight-ibf-wbc-wbo-titles-women/"
+      },
+      {
+        "name": "Cruiserweight - BBBofC English Title Men (1)",
+        "alt": "cruiserweight-bbbofc-english-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/cruiserweight-bbbofc-english-title-men/"
+      },
+      {
+        "name": "Featherweight - WBA/WBO Titles Women (1)",
+        "alt": "featherweight-wba-wbo-titles-women",
+        "url": "https://www.oddsportal.com/boxing/world/featherweight-wba-wbo-titles-women/"
+      },
+      {
+        "name": "Heavyweight - WBO Global Title Men (1)",
+        "alt": "heavyweight-wbo-global-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/heavyweight-wbo-global-title-men/"
+      },
+      {
+        "name": "Lightweight - IBF Title Women (1)",
+        "alt": "lightweight-ibf-title-women",
+        "url": "https://www.oddsportal.com/boxing/world/lightweight-ibf-title-women/"
+      },
+      {
+        "name": "Middleweight - EBU Silver Title Men (1)",
+        "alt": "middleweight-ebu-silver-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/middleweight-ebu-silver-title-men/"
+      },
+      {
+        "name": "Minimum - Others matches Women (1)",
+        "alt": "minimum-others-matches-women",
+        "url": "https://www.oddsportal.com/boxing/world/minimum-others-matches-women/"
+      },
+      {
+        "name": "Super Bantamweight - IBF/WBC/WBO Titles Men (1)",
+        "alt": "super-bantamweight-ibf-wbc-wbo-titles-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-bantamweight-ibf-wbc-wbo-titles-men/"
+      },
+      {
+        "name": "Super Bantamweight - WBC Continental Americas Title Men (1)",
+        "alt": "super-bantamweight-wbc-continental-americas-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-bantamweight-wbc-continental-americas-title-men/"
+      },
+      {
+        "name": "Super Featherweight - IBF/WBO Titles Men (1)",
+        "alt": "super-featherweight-ibf-wbo-titles-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-featherweight-ibf-wbo-titles-men/"
+      },
+      {
+        "name": "Super Middleweight - British/Commonwealth/EBU Titles Men (1)",
+        "alt": "super-middleweight-british-commonwealth-ebu-titles-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-middleweight-british-commonwealth-ebu-titles-men/"
+      },
+      {
+        "name": "Super Middleweight - IBF Youth Title Men (1)",
+        "alt": "super-middleweight-ibf-youth-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-middleweight-ibf-youth-title-men/"
+      },
+      {
+        "name": "Super Welterweight - IBF Pacific Title Men (1)",
+        "alt": "super-welterweight-ibf-pacific-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-welterweight-ibf-pacific-title-men/"
+      },
+      {
+        "name": "Light Flyweight - WBO Title Men (1)",
+        "alt": "light-flyweight-wbo-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/light-flyweight-wbo-title-men/"
+      },
+      {
+        "name": "Lightweight - WBO International Title Men (1)",
+        "alt": "lightweight-wbo-international-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/lightweight-wbo-international-title-men/"
+      },
+      {
+        "name": "Super Bantamweight - EBU European Title Men (1)",
+        "alt": "super-bantamweight-ebu-european-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-bantamweight-ebu-european-title-men/"
+      },
+      {
+        "name": "Super Bantamweight - WBC Title Women (1)",
+        "alt": "super-bantamweight-wbc-title-women",
+        "url": "https://www.oddsportal.com/boxing/world/super-bantamweight-wbc-title-women/"
+      },
+      {
+        "name": "Super Featherweight - IBF/WBO Titles Women (1)",
+        "alt": "super-featherweight-ibf-wbo-titles-women",
+        "url": "https://www.oddsportal.com/boxing/world/super-featherweight-ibf-wbo-titles-women/"
+      },
+      {
+        "name": "Super Lightweight - WBO International Title Men (1)",
+        "alt": "super-lightweight-wbo-international-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-lightweight-wbo-international-title-men/"
+      },
+      {
+        "name": "Super Lightweight - WBO Title Men (1)",
+        "alt": "super-lightweight-wbo-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-lightweight-wbo-title-men/"
+      },
+      {
+        "name": "Super Welterweight - WBO Title Men (1)",
+        "alt": "super-welterweight-wbo-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-welterweight-wbo-title-men/"
+      },
+      {
+        "name": "Super Lightweight - Others matches Men (3)",
+        "alt": "super-lightweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-lightweight-others-matches-men/"
+      },
+      {
+        "name": "Super Welterweight - Others matches Men (1)",
+        "alt": "super-welterweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-welterweight-others-matches-men/"
+      },
+      {
+        "name": "Bantamweight - IBF Title Men (1)",
+        "alt": "bantamweight-ibf-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/bantamweight-ibf-title-men/"
+      },
+      {
+        "name": "Bantamweight - Others matches Men (2)",
+        "alt": "bantamweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/bantamweight-others-matches-men/"
+      },
+      {
+        "name": "Cruiserweight - IBF Title Men (1)",
+        "alt": "cruiserweight-ibf-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/cruiserweight-ibf-title-men/"
+      },
+      {
+        "name": "Cruiserweight - WBC Title Men (1)",
+        "alt": "cruiserweight-wbc-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/cruiserweight-wbc-title-men/"
+      },
+      {
+        "name": "Featherweight - Others matches Men (1)",
+        "alt": "featherweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/featherweight-others-matches-men/"
+      },
+      {
+        "name": "Heavyweight - Others matches Men (4)",
+        "alt": "heavyweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/heavyweight-others-matches-men/"
+      },
+      {
+        "name": "Heavyweight - Others matches Men 2026 (1)",
+        "alt": "heavyweight-others-matches-men-2026",
+        "url": "https://www.oddsportal.com/boxing/world/heavyweight-others-matches-men-2026/"
+      },
+      {
+        "name": "Heavyweight - WBC Title Men (1)",
+        "alt": "heavyweight-wbc-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/heavyweight-wbc-title-men/"
+      },
+      {
+        "name": "Light Heavyweight - Men Others matches (2)",
+        "alt": "light-heavyweight-men-others-matches",
+        "url": "https://www.oddsportal.com/boxing/world/light-heavyweight-men-others-matches/"
+      },
+      {
+        "name": "Light Heavyweight - Men Others matches 2026 (1)",
+        "alt": "light-heavyweight-men-others-matches-2026",
+        "url": "https://www.oddsportal.com/boxing/world/light-heavyweight-men-others-matches-2026/"
+      },
+      {
+        "name": "Lightweight - IBF Title Men (1)",
+        "alt": "lightweight-ibf-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/lightweight-ibf-title-men/"
+      },
+      {
+        "name": "Lightweight - Others matches Men (1)",
+        "alt": "lightweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/lightweight-others-matches-men/"
+      },
+      {
+        "name": "Middleweight - Others matches Men (2)",
+        "alt": "middleweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/middleweight-others-matches-men/"
+      },
+      {
+        "name": "Middleweight - Others matches Men 2026 (3)",
+        "alt": "middleweight-others-matches-men-2026",
+        "url": "https://www.oddsportal.com/boxing/world/middleweight-others-matches-men-2026/"
+      },
+      {
+        "name": "Super Featherweight - Others matches Men (2)",
+        "alt": "super-featherweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-featherweight-others-matches-men/"
+      },
+      {
+        "name": "Super Featherweight - Others matches Men 2026 (1)",
+        "alt": "super-featherweight-others-matches-men-2026",
+        "url": "https://www.oddsportal.com/boxing/world/super-featherweight-others-matches-men-2026/"
+      },
+      {
+        "name": "Super Middleweight - Others matches Men (1)",
+        "alt": "super-middleweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-middleweight-others-matches-men/"
+      },
+      {
+        "name": "Welterweight - Others matches Men (2)",
+        "alt": "welterweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/welterweight-others-matches-men/"
+      },
+      {
+        "name": "Welterweight - Others matches Men 2026 (1)",
+        "alt": "welterweight-others-matches-men-2026",
+        "url": "https://www.oddsportal.com/boxing/world/welterweight-others-matches-men-2026/"
+      },
+      {
+        "name": "Flyweight - IBF Title Men (1)",
+        "alt": "flyweight-ibf-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/flyweight-ibf-title-men/"
+      },
+      {
+        "name": "Flyweight - Others matches Men (1)",
+        "alt": "flyweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/flyweight-others-matches-men/"
+      },
+      {
+        "name": "Flyweight - WBO Title Men (1)",
+        "alt": "flyweight-wbo-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/flyweight-wbo-title-men/"
+      },
+      {
+        "name": "Lightweight - Others matches Women 2026 (1)",
+        "alt": "lightweight-others-matches-women-2026",
+        "url": "https://www.oddsportal.com/boxing/world/lightweight-others-matches-women-2026/"
+      },
+      {
+        "name": "Super Bantamweight - Others matches Men (2)",
+        "alt": "super-bantamweight-others-matches-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-bantamweight-others-matches-men/"
+      },
+      {
+        "name": "Super Flyweight - IBF Title Men (1)",
+        "alt": "super-flyweight-ibf-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-flyweight-ibf-title-men/"
+      },
+      {
+        "name": "Super Lightweight - WBC Title Men (1)",
+        "alt": "super-lightweight-wbc-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-lightweight-wbc-title-men/"
+      },
+      {
+        "name": "Super Lightweight - WBC Title Men 2026 (1)",
+        "alt": "super-lightweight-wbc-title-men-2026",
+        "url": "https://www.oddsportal.com/boxing/world/super-lightweight-wbc-title-men-2026/"
+      },
+      {
+        "name": "Super Welterweight - IBF Title Men (1)",
+        "alt": "super-welterweight-ibf-title-men",
+        "url": "https://www.oddsportal.com/boxing/world/super-welterweight-ibf-title-men/"
+      }
+    ]
+  },
+  {
+    "sport": "cricket",
+    "country": "Australia",
+    "url": "https://www.oddsportal.com/cricket/australia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/au.svg",
+    "leagues": [
+      {
+        "name": "Big Bash League (5)",
+        "alt": "big-bash-league",
+        "url": "https://www.oddsportal.com/cricket/australia/big-bash-league/"
+      },
+      {
+        "name": "Big Bash League Women (4)",
+        "alt": "big-bash-league-women",
+        "url": "https://www.oddsportal.com/cricket/australia/big-bash-league-women/"
+      }
+    ]
+  },
+  {
+    "sport": "cricket",
+    "country": "India",
+    "url": "https://www.oddsportal.com/cricket/india/",
+    "flag": "https://cci2.oddsportal.com/country-flags/in.svg",
+    "leagues": [
+      {
+        "name": "Syed Mushtaq Ali Trophy (17)",
+        "alt": "syed-mushtaq-ali-trophy",
+        "url": "https://www.oddsportal.com/cricket/india/syed-mushtaq-ali-trophy/"
+      }
+    ]
+  },
+  {
+    "sport": "cricket",
+    "country": "New Zealand",
+    "url": "https://www.oddsportal.com/cricket/new-zealand/",
+    "flag": "https://cci2.oddsportal.com/country-flags/nz.svg",
+    "leagues": [
+      {
+        "name": "Super Smash (3)",
+        "alt": "super-smash",
+        "url": "https://www.oddsportal.com/cricket/new-zealand/super-smash/"
+      },
+      {
+        "name": "Super Smash Women (3)",
+        "alt": "super-smash-women",
+        "url": "https://www.oddsportal.com/cricket/new-zealand/super-smash-women/"
+      }
+    ]
+  },
+  {
+    "sport": "cricket",
+    "country": "South Africa",
+    "url": "https://www.oddsportal.com/cricket/south-africa/",
+    "flag": "https://cci2.oddsportal.com/country-flags/za.svg",
+    "leagues": [
+      {
+        "name": "SA20 (3)",
+        "alt": "sa20",
+        "url": "https://www.oddsportal.com/cricket/south-africa/sa20/"
+      }
+    ]
+  },
+  {
+    "sport": "cricket",
+    "country": "United Arab Emirates",
+    "url": "https://www.oddsportal.com/cricket/united-arab-emirates/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ae.svg",
+    "leagues": [
+      {
+        "name": "International League T20 (3)",
+        "alt": "international-league-t20",
+        "url": "https://www.oddsportal.com/cricket/united-arab-emirates/international-league-t20/"
+      }
+    ]
+  },
+  {
+    "sport": "cricket",
+    "country": "World",
+    "url": "https://www.oddsportal.com/cricket/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "T20 World Cup (7)",
+        "alt": "t20-world-cup",
+        "url": "https://www.oddsportal.com/cricket/world/t20-world-cup/"
+      },
+      {
+        "name": "One Day International (1)",
+        "alt": "one-day-international",
+        "url": "https://www.oddsportal.com/cricket/world/one-day-international/"
+      },
+      {
+        "name": "Twenty20 International Women (1)",
+        "alt": "twenty20-international-women",
+        "url": "https://www.oddsportal.com/cricket/world/twenty20-international-women/"
+      }
+    ]
+  },
+  {
+    "sport": "darts",
+    "country": "World",
+    "url": "https://www.oddsportal.com/darts/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "PDC World Championship (64)",
+        "alt": "pdc-world-championship",
+        "url": "https://www.oddsportal.com/darts/world/pdc-world-championship/"
+      },
+      {
+        "name": "WDF World Championship (7)",
+        "alt": "wdf-world-championship",
+        "url": "https://www.oddsportal.com/darts/world/wdf-world-championship/"
+      },
+      {
+        "name": "ADC Global Championship (42)",
+        "alt": "adc-global-championship",
+        "url": "https://www.oddsportal.com/darts/world/adc-global-championship/"
+      },
+      {
+        "name": "WDF World Championship Women (5)",
+        "alt": "wdf-world-championship-women",
+        "url": "https://www.oddsportal.com/darts/world/wdf-world-championship-women/"
+      }
+    ]
+  },
+  {
+    "sport": "esports",
+    "country": "Counter-Strike",
+    "url": "https://www.oddsportal.com/esports/counter-strike/",
+    "flag": "https://cci2.oddsportal.com/esport/cs.png",
+    "leagues": [
+      {
+        "name": "Counter-Strike StarLadder Budapest Major (4)",
+        "alt": "counter-strike-starladder-budapest-major",
+        "url": "https://www.oddsportal.com/esports/counter-strike/counter-strike-starladder-budapest-major/"
+      }
+    ]
+  },
+  {
+    "sport": "esports",
+    "country": "League of Legends",
+    "url": "https://www.oddsportal.com/esports/league-of-legends/",
+    "flag": "https://cci2.oddsportal.com/esport/lol.png",
+    "leagues": [
+      {
+        "name": "League of Legends KeSPA Cup (23)",
+        "alt": "league-of-legends-kespa-cup",
+        "url": "https://www.oddsportal.com/esports/league-of-legends/league-of-legends-kespa-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "esports",
+    "country": "Dota 2",
+    "url": "https://www.oddsportal.com/esports/dota-2/",
+    "flag": "https://cci2.oddsportal.com/esport/dota2.png",
+    "leagues": [
+      {
+        "name": "Dota 2 Blast Slam V (4)",
+        "alt": "dota-2-blast-slam-v",
+        "url": "https://www.oddsportal.com/esports/dota-2/dota-2-blast-slam-v/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "Czech Republic",
+    "url": "https://www.oddsportal.com/floorball/czech-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cz.svg",
+    "leagues": [
+      {
+        "name": "Livesport Superliga (1)",
+        "alt": "livesport-superliga",
+        "url": "https://www.oddsportal.com/floorball/czech-republic/livesport-superliga/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "Europe",
+    "url": "https://www.oddsportal.com/floorball/europe/",
+    "flag": "https://cci2.oddsportal.com/country-flags/6.svg",
+    "leagues": [
+      {
+        "name": "Latvian-Estonian League (1)",
+        "alt": "latvian-estonian-league",
+        "url": "https://www.oddsportal.com/floorball/europe/latvian-estonian-league/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "Finland",
+    "url": "https://www.oddsportal.com/floorball/finland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fi.svg",
+    "leagues": [
+      {
+        "name": "F-Liiga (3)",
+        "alt": "f-liiga",
+        "url": "https://www.oddsportal.com/floorball/finland/f-liiga/"
+      },
+      {
+        "name": "Inssi-Divari (5)",
+        "alt": "inssi-divari",
+        "url": "https://www.oddsportal.com/floorball/finland/inssi-divari/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "Latvia",
+    "url": "https://www.oddsportal.com/floorball/latvia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lv.svg",
+    "leagues": [
+      {
+        "name": "Elvi Liga (7)",
+        "alt": "elvi-liga",
+        "url": "https://www.oddsportal.com/floorball/latvia/elvi-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "Norway",
+    "url": "https://www.oddsportal.com/floorball/norway/",
+    "flag": "https://cci2.oddsportal.com/country-flags/no.svg",
+    "leagues": [
+      {
+        "name": "Eliteserien (5)",
+        "alt": "eliteserien",
+        "url": "https://www.oddsportal.com/floorball/norway/eliteserien/"
+      },
+      {
+        "name": "Eliteserien Women (2)",
+        "alt": "eliteserien-women",
+        "url": "https://www.oddsportal.com/floorball/norway/eliteserien-women/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "Slovakia",
+    "url": "https://www.oddsportal.com/floorball/slovakia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sk.svg",
+    "leagues": [
+      {
+        "name": "Extraliga (6)",
+        "alt": "extraliga",
+        "url": "https://www.oddsportal.com/floorball/slovakia/extraliga/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "Sweden",
+    "url": "https://www.oddsportal.com/floorball/sweden/",
+    "flag": "https://cci2.oddsportal.com/country-flags/se.svg",
+    "leagues": [
+      {
+        "name": "Svenska Superligan (6)",
+        "alt": "svenska-superligan",
+        "url": "https://www.oddsportal.com/floorball/sweden/svenska-superligan/"
+      },
+      {
+        "name": "Allsvenskan (6)",
+        "alt": "allsvenskan",
+        "url": "https://www.oddsportal.com/floorball/sweden/allsvenskan/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "Switzerland",
+    "url": "https://www.oddsportal.com/floorball/switzerland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ch.svg",
+    "leagues": [
+      {
+        "name": "Prime League (5)",
+        "alt": "prime-league",
+        "url": "https://www.oddsportal.com/floorball/switzerland/prime-league/"
+      }
+    ]
+  },
+  {
+    "sport": "floorball",
+    "country": "World",
+    "url": "https://www.oddsportal.com/floorball/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "World Championship Women (7)",
+        "alt": "world-championship-women",
+        "url": "https://www.oddsportal.com/floorball/world/world-championship-women/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Czech Republic",
+    "url": "https://www.oddsportal.com/futsal/czech-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cz.svg",
+    "leagues": [
+      {
+        "name": "1. Futsal liga (4)",
+        "alt": "1-futsal-liga",
+        "url": "https://www.oddsportal.com/futsal/czech-republic/1-futsal-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Europe",
+    "url": "https://www.oddsportal.com/futsal/europe/",
+    "flag": "https://cci2.oddsportal.com/country-flags/6.svg",
+    "leagues": [
+      {
+        "name": "UEFA Futsal Champions League (7)",
+        "alt": "uefa-futsal-champions-league",
+        "url": "https://www.oddsportal.com/futsal/europe/uefa-futsal-champions-league/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Finland",
+    "url": "https://www.oddsportal.com/futsal/finland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fi.svg",
+    "leagues": [
+      {
+        "name": "Liiga (4)",
+        "alt": "liiga",
+        "url": "https://www.oddsportal.com/futsal/finland/liiga/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Hungary",
+    "url": "https://www.oddsportal.com/futsal/hungary/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hu.svg",
+    "leagues": [
+      {
+        "name": "NB I (2)",
+        "alt": "nb-i",
+        "url": "https://www.oddsportal.com/futsal/hungary/nb-i/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Italy",
+    "url": "https://www.oddsportal.com/futsal/italy/",
+    "flag": "https://cci2.oddsportal.com/country-flags/it.svg",
+    "leagues": [
+      {
+        "name": "Serie A (6)",
+        "alt": "serie-a",
+        "url": "https://www.oddsportal.com/futsal/italy/serie-a/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Japan",
+    "url": "https://www.oddsportal.com/futsal/japan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/jp.svg",
+    "leagues": [
+      {
+        "name": "F.League (1)",
+        "alt": "f-league",
+        "url": "https://www.oddsportal.com/futsal/japan/f-league/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Latvia",
+    "url": "https://www.oddsportal.com/futsal/latvia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lv.svg",
+    "leagues": [
+      {
+        "name": "Optibet Virsliga (4)",
+        "alt": "optibet-virsliga",
+        "url": "https://www.oddsportal.com/futsal/latvia/optibet-virsliga/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Portugal",
+    "url": "https://www.oddsportal.com/futsal/portugal/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pt.svg",
+    "leagues": [
+      {
+        "name": "Liga Placard (1)",
+        "alt": "liga-placard",
+        "url": "https://www.oddsportal.com/futsal/portugal/liga-placard/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Russia",
+    "url": "https://www.oddsportal.com/futsal/russia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ru.svg",
+    "leagues": [
+      {
+        "name": "SuperLiga (6)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/futsal/russia/superliga/"
+      },
+      {
+        "name": "Second Division (2)",
+        "alt": "second-division",
+        "url": "https://www.oddsportal.com/futsal/russia/second-division/"
+      },
+      {
+        "name": "Russian Cup (4)",
+        "alt": "russian-cup",
+        "url": "https://www.oddsportal.com/futsal/russia/russian-cup/"
+      },
+      {
+        "name": "Championship Women (2)",
+        "alt": "championship-women",
+        "url": "https://www.oddsportal.com/futsal/russia/championship-women/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Slovenia",
+    "url": "https://www.oddsportal.com/futsal/slovenia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/si.svg",
+    "leagues": [
+      {
+        "name": "1. SFL (2)",
+        "alt": "1-sfl",
+        "url": "https://www.oddsportal.com/futsal/slovenia/1-sfl/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Spain",
+    "url": "https://www.oddsportal.com/futsal/spain/",
+    "flag": "https://cci2.oddsportal.com/country-flags/es.svg",
+    "leagues": [
+      {
+        "name": "Liga Nacional (6)",
+        "alt": "liga-nacional",
+        "url": "https://www.oddsportal.com/futsal/spain/liga-nacional/"
+      },
+      {
+        "name": "Segunda Division (1)",
+        "alt": "segunda-division",
+        "url": "https://www.oddsportal.com/futsal/spain/segunda-division/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "Ukraine",
+    "url": "https://www.oddsportal.com/futsal/ukraine/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ua.svg",
+    "leagues": [
+      {
+        "name": "Extra-Liga (4)",
+        "alt": "extra-liga",
+        "url": "https://www.oddsportal.com/futsal/ukraine/extra-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "futsal",
+    "country": "World",
+    "url": "https://www.oddsportal.com/futsal/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "World Cup Women (2)",
+        "alt": "world-cup-women",
+        "url": "https://www.oddsportal.com/futsal/world/world-cup-women/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Croatia",
+    "url": "https://www.oddsportal.com/handball/croatia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hr.svg",
+    "leagues": [
+      {
+        "name": "Premijer liga (7)",
+        "alt": "premijer-liga",
+        "url": "https://www.oddsportal.com/handball/croatia/premijer-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Czech Republic",
+    "url": "https://www.oddsportal.com/handball/czech-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cz.svg",
+    "leagues": [
+      {
+        "name": "Extraliga (7)",
+        "alt": "extraliga",
+        "url": "https://www.oddsportal.com/handball/czech-republic/extraliga/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Denmark",
+    "url": "https://www.oddsportal.com/handball/denmark/",
+    "flag": "https://cci2.oddsportal.com/country-flags/dk.svg",
+    "leagues": [
+      {
+        "name": "Herre Handbold Ligaen (5)",
+        "alt": "herre-handbold-ligaen",
+        "url": "https://www.oddsportal.com/handball/denmark/herre-handbold-ligaen/"
+      },
+      {
+        "name": "1. Division (7)",
+        "alt": "1-division",
+        "url": "https://www.oddsportal.com/handball/denmark/1-division/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Finland",
+    "url": "https://www.oddsportal.com/handball/finland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fi.svg",
+    "leagues": [
+      {
+        "name": "Aktialiiga (3)",
+        "alt": "aktialiiga",
+        "url": "https://www.oddsportal.com/handball/finland/aktialiiga/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "France",
+    "url": "https://www.oddsportal.com/handball/france/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fr.svg",
+    "leagues": [
+      {
+        "name": "Starligue (8)",
+        "alt": "starligue",
+        "url": "https://www.oddsportal.com/handball/france/starligue/"
+      },
+      {
+        "name": "Proligue (7)",
+        "alt": "proligue",
+        "url": "https://www.oddsportal.com/handball/france/proligue/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Germany",
+    "url": "https://www.oddsportal.com/handball/germany/",
+    "flag": "https://cci2.oddsportal.com/country-flags/de.svg",
+    "leagues": [
+      {
+        "name": "Bundesliga (7)",
+        "alt": "bundesliga",
+        "url": "https://www.oddsportal.com/handball/germany/bundesliga/"
+      },
+      {
+        "name": "2. Bundesliga (9)",
+        "alt": "2-bundesliga",
+        "url": "https://www.oddsportal.com/handball/germany/2-bundesliga/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Greece",
+    "url": "https://www.oddsportal.com/handball/greece/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gr.svg",
+    "leagues": [
+      {
+        "name": "A1 (1)",
+        "alt": "a1",
+        "url": "https://www.oddsportal.com/handball/greece/a1/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Hungary",
+    "url": "https://www.oddsportal.com/handball/hungary/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hu.svg",
+    "leagues": [
+      {
+        "name": "NB I (7)",
+        "alt": "nb-i",
+        "url": "https://www.oddsportal.com/handball/hungary/nb-i/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Iceland",
+    "url": "https://www.oddsportal.com/handball/iceland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/is.svg",
+    "leagues": [
+      {
+        "name": "Olis Deildin (3)",
+        "alt": "olis-deildin",
+        "url": "https://www.oddsportal.com/handball/iceland/olis-deildin/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Japan",
+    "url": "https://www.oddsportal.com/handball/japan/",
+    "flag": "https://cci2.oddsportal.com/country-flags/jp.svg",
+    "leagues": [
+      {
+        "name": "League H (1)",
+        "alt": "league-h",
+        "url": "https://www.oddsportal.com/handball/japan/league-h/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Latvia",
+    "url": "https://www.oddsportal.com/handball/latvia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lv.svg",
+    "leagues": [
+      {
+        "name": "Virsliga (1)",
+        "alt": "virsliga",
+        "url": "https://www.oddsportal.com/handball/latvia/virsliga/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Montenegro",
+    "url": "https://www.oddsportal.com/handball/montenegro/",
+    "flag": "https://cci2.oddsportal.com/country-flags/me.svg",
+    "leagues": [
+      {
+        "name": "Prva liga (1)",
+        "alt": "prva-liga",
+        "url": "https://www.oddsportal.com/handball/montenegro/prva-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Norway",
+    "url": "https://www.oddsportal.com/handball/norway/",
+    "flag": "https://cci2.oddsportal.com/country-flags/no.svg",
+    "leagues": [
+      {
+        "name": "REMA 1000-ligaen (7)",
+        "alt": "rema-1000-ligaen",
+        "url": "https://www.oddsportal.com/handball/norway/rema-1000-ligaen/"
+      },
+      {
+        "name": "1. Division (6)",
+        "alt": "1-division",
+        "url": "https://www.oddsportal.com/handball/norway/1-division/"
+      },
+      {
+        "name": "1. Division Women (6)",
+        "alt": "1-division-women",
+        "url": "https://www.oddsportal.com/handball/norway/1-division-women/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Poland",
+    "url": "https://www.oddsportal.com/handball/poland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pl.svg",
+    "leagues": [
+      {
+        "name": "Superliga (4)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/handball/poland/superliga/"
+      },
+      {
+        "name": "Central League (1)",
+        "alt": "central-league",
+        "url": "https://www.oddsportal.com/handball/poland/central-league/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Portugal",
+    "url": "https://www.oddsportal.com/handball/portugal/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pt.svg",
+    "leagues": [
+      {
+        "name": "Andebol 1 (6)",
+        "alt": "andebol-1",
+        "url": "https://www.oddsportal.com/handball/portugal/andebol-1/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Romania",
+    "url": "https://www.oddsportal.com/handball/romania/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ro.svg",
+    "leagues": [
+      {
+        "name": "Liga Nationala (4)",
+        "alt": "liga-nationala",
+        "url": "https://www.oddsportal.com/handball/romania/liga-nationala/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Russia",
+    "url": "https://www.oddsportal.com/handball/russia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ru.svg",
+    "leagues": [
+      {
+        "name": "Superleague (3)",
+        "alt": "superleague",
+        "url": "https://www.oddsportal.com/handball/russia/superleague/"
+      },
+      {
+        "name": "Superleague Women (6)",
+        "alt": "superleague-women",
+        "url": "https://www.oddsportal.com/handball/russia/superleague-women/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Serbia",
+    "url": "https://www.oddsportal.com/handball/serbia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/rs.svg",
+    "leagues": [
+      {
+        "name": "ARKUS Liga (1)",
+        "alt": "arkus-liga",
+        "url": "https://www.oddsportal.com/handball/serbia/arkus-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Slovakia",
+    "url": "https://www.oddsportal.com/handball/slovakia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sk.svg",
+    "leagues": [
+      {
+        "name": "Extraliga (1)",
+        "alt": "extraliga",
+        "url": "https://www.oddsportal.com/handball/slovakia/extraliga/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Slovenia",
+    "url": "https://www.oddsportal.com/handball/slovenia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/si.svg",
+    "leagues": [
+      {
+        "name": "1. NLB Liga (6)",
+        "alt": "1-nlb-lig",
+        "url": "https://www.oddsportal.com/handball/slovenia/1-nlb-lig/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "South Korea",
+    "url": "https://www.oddsportal.com/handball/south-korea/",
+    "flag": "https://cci2.oddsportal.com/country-flags/kr.svg",
+    "leagues": [
+      {
+        "name": "H League (3)",
+        "alt": "h-league",
+        "url": "https://www.oddsportal.com/handball/south-korea/h-league/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Spain",
+    "url": "https://www.oddsportal.com/handball/spain/",
+    "flag": "https://cci2.oddsportal.com/country-flags/es.svg",
+    "leagues": [
+      {
+        "name": "Liga ASOBAL (10)",
+        "alt": "liga-asobal",
+        "url": "https://www.oddsportal.com/handball/spain/liga-asobal/"
+      },
+      {
+        "name": "Division de Honor Plata (8)",
+        "alt": "division-de-honor-plata",
+        "url": "https://www.oddsportal.com/handball/spain/division-de-honor-plata/"
+      },
+      {
+        "name": "Division de Honor Women (1)",
+        "alt": "division-de-honor-women",
+        "url": "https://www.oddsportal.com/handball/spain/division-de-honor-women/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Sweden",
+    "url": "https://www.oddsportal.com/handball/sweden/",
+    "flag": "https://cci2.oddsportal.com/country-flags/se.svg",
+    "leagues": [
+      {
+        "name": "Handbollsligan (6)",
+        "alt": "handbollsligan",
+        "url": "https://www.oddsportal.com/handball/sweden/handbollsligan/"
+      },
+      {
+        "name": "Allsvenskan (6)",
+        "alt": "allsvenskan",
+        "url": "https://www.oddsportal.com/handball/sweden/allsvenskan/"
+      },
+      {
+        "name": "Allsvenskan Women (1)",
+        "alt": "allsvenskan-women",
+        "url": "https://www.oddsportal.com/handball/sweden/allsvenskan-women/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Switzerland",
+    "url": "https://www.oddsportal.com/handball/switzerland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ch.svg",
+    "leagues": [
+      {
+        "name": "NLA (4)",
+        "alt": "nla",
+        "url": "https://www.oddsportal.com/handball/switzerland/nla/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "Turkey",
+    "url": "https://www.oddsportal.com/handball/turkey/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tr.svg",
+    "leagues": [
+      {
+        "name": "Superlig (1)",
+        "alt": "superlig",
+        "url": "https://www.oddsportal.com/handball/turkey/superlig/"
+      }
+    ]
+  },
+  {
+    "sport": "handball",
+    "country": "World",
+    "url": "https://www.oddsportal.com/handball/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "World Championship Women (16)",
+        "alt": "world-championship-women",
+        "url": "https://www.oddsportal.com/handball/world/world-championship-women/"
+      }
+    ]
+  },
+  {
+    "sport": "mma",
+    "country": "Europe",
+    "url": "https://www.oddsportal.com/mma/europe/",
+    "flag": "https://cci2.oddsportal.com/country-flags/6.svg",
+    "leagues": [
+      {
+        "name": "Bantamweight - Cage Warriors Men (1)",
+        "alt": "bantamweight-cage-warriors-men",
+        "url": "https://www.oddsportal.com/mma/europe/bantamweight-cage-warriors-men/"
+      },
+      {
+        "name": "Bantamweight - KSW Men (1)",
+        "alt": "bantamweight-ksw-men",
+        "url": "https://www.oddsportal.com/mma/europe/bantamweight-ksw-men/"
+      },
+      {
+        "name": "Bantamweight - Oktagon Men (1)",
+        "alt": "bantamweight-oktagon-men",
+        "url": "https://www.oddsportal.com/mma/europe/bantamweight-oktagon-men/"
+      },
+      {
+        "name": "Catchweight - Cage Warriors Men (1)",
+        "alt": "catchweight-cage-warriors-men",
+        "url": "https://www.oddsportal.com/mma/europe/catchweight-cage-warriors-men/"
+      },
+      {
+        "name": "Featherweight - Cage Warriors Men (1)",
+        "alt": "featherweight-cage-warriors-men",
+        "url": "https://www.oddsportal.com/mma/europe/featherweight-cage-warriors-men/"
+      },
+      {
+        "name": "Featherweight - KSW Men (2)",
+        "alt": "featherweight-ksw-men",
+        "url": "https://www.oddsportal.com/mma/europe/featherweight-ksw-men/"
+      },
+      {
+        "name": "Featherweight - Oktagon Men (1)",
+        "alt": "featherweight-oktagon-men",
+        "url": "https://www.oddsportal.com/mma/europe/featherweight-oktagon-men/"
+      },
+      {
+        "name": "Flyweight - Cage Warriors Men (2)",
+        "alt": "flyweight-cage-warriors-men",
+        "url": "https://www.oddsportal.com/mma/europe/flyweight-cage-warriors-men/"
+      },
+      {
+        "name": "Flyweight - Oktagon Men (1)",
+        "alt": "flyweight-oktagon-men",
+        "url": "https://www.oddsportal.com/mma/europe/flyweight-oktagon-men/"
+      },
+      {
+        "name": "Flyweight - Oktagon Women (1)",
+        "alt": "flyweight-oktagon-women",
+        "url": "https://www.oddsportal.com/mma/europe/flyweight-oktagon-women/"
+      },
+      {
+        "name": "Heavyweight - KSW Men (2)",
+        "alt": "heavyweight-ksw-men",
+        "url": "https://www.oddsportal.com/mma/europe/heavyweight-ksw-men/"
+      },
+      {
+        "name": "Heavyweight - Oktagon Men (2)",
+        "alt": "heavyweight-oktagon-men",
+        "url": "https://www.oddsportal.com/mma/europe/heavyweight-oktagon-men/"
+      },
+      {
+        "name": "Light Heavyweight - Cage Warriors Men (1)",
+        "alt": "light-heavyweight-cage-warriors-men",
+        "url": "https://www.oddsportal.com/mma/europe/light-heavyweight-cage-warriors-men/"
+      },
+      {
+        "name": "Light Heavyweight - Oktagon Men (1)",
+        "alt": "light-heavyweight-oktagon-men",
+        "url": "https://www.oddsportal.com/mma/europe/light-heavyweight-oktagon-men/"
+      },
+      {
+        "name": "Lightweight - Cage Warriors Men (6)",
+        "alt": "lightweight-cage-warriors-men",
+        "url": "https://www.oddsportal.com/mma/europe/lightweight-cage-warriors-men/"
+      },
+      {
+        "name": "Lightweight - KSW Men (1)",
+        "alt": "lightweight-ksw-men",
+        "url": "https://www.oddsportal.com/mma/europe/lightweight-ksw-men/"
+      },
+      {
+        "name": "Middleweight - Cage Warriors Men (1)",
+        "alt": "middleweight-cage-warriors-men",
+        "url": "https://www.oddsportal.com/mma/europe/middleweight-cage-warriors-men/"
+      },
+      {
+        "name": "Middleweight - KSW Men (2)",
+        "alt": "middleweight-ksw-men",
+        "url": "https://www.oddsportal.com/mma/europe/middleweight-ksw-men/"
+      },
+      {
+        "name": "Middleweight - Oktagon Men (1)",
+        "alt": "middleweight-oktagon-men",
+        "url": "https://www.oddsportal.com/mma/europe/middleweight-oktagon-men/"
+      },
+      {
+        "name": "Welterweight - Cage Warriors Men (1)",
+        "alt": "welterweight-cage-warriors-men",
+        "url": "https://www.oddsportal.com/mma/europe/welterweight-cage-warriors-men/"
+      },
+      {
+        "name": "Welterweight - KSW Men (2)",
+        "alt": "welterweight-ksw-men",
+        "url": "https://www.oddsportal.com/mma/europe/welterweight-ksw-men/"
+      },
+      {
+        "name": "Welterweight - Oktagon Men (2)",
+        "alt": "welterweight-oktagon-men",
+        "url": "https://www.oddsportal.com/mma/europe/welterweight-oktagon-men/"
+      }
+    ]
+  },
+  {
+    "sport": "mma",
+    "country": "World",
+    "url": "https://www.oddsportal.com/mma/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "Bantamweight - PFL MENA Tournament Men (1)",
+        "alt": "bantamweight-pfl-mena-tournament-men",
+        "url": "https://www.oddsportal.com/mma/world/bantamweight-pfl-mena-tournament-men/"
+      },
+      {
+        "name": "Catchweight - PFL MENA Men (1)",
+        "alt": "catchweight-pfl-mena-men",
+        "url": "https://www.oddsportal.com/mma/world/catchweight-pfl-mena-men/"
+      },
+      {
+        "name": "Featherweight - PFL MENA Tournament Men (1)",
+        "alt": "featherweight-pfl-mena-tournament-men",
+        "url": "https://www.oddsportal.com/mma/world/featherweight-pfl-mena-tournament-men/"
+      },
+      {
+        "name": "Flyweight - PFL MENA Men (1)",
+        "alt": "flyweight-pfl-mena-men",
+        "url": "https://www.oddsportal.com/mma/world/flyweight-pfl-mena-men/"
+      },
+      {
+        "name": "Lightweight - PFL MENA Men (1)",
+        "alt": "lightweight-pfl-mena-men",
+        "url": "https://www.oddsportal.com/mma/world/lightweight-pfl-mena-men/"
+      },
+      {
+        "name": "Lightweight - PFL MENA Tournament Men (1)",
+        "alt": "lightweight-pfl-mena-tournament-men",
+        "url": "https://www.oddsportal.com/mma/world/lightweight-pfl-mena-tournament-men/"
+      },
+      {
+        "name": "Welterweight - PFL MENA Tournament Men (1)",
+        "alt": "welterweight-pfl-mena-tournament-men",
+        "url": "https://www.oddsportal.com/mma/world/welterweight-pfl-mena-tournament-men/"
+      },
+      {
+        "name": "Bantamweight - UFC Men (2)",
+        "alt": "bantamweight-ufc-men",
+        "url": "https://www.oddsportal.com/mma/world/bantamweight-ufc-men/"
+      },
+      {
+        "name": "Bantamweight - UFC Men 2026 (1)",
+        "alt": "bantamweight-ufc-men-2026",
+        "url": "https://www.oddsportal.com/mma/world/bantamweight-ufc-men-2026/"
+      },
+      {
+        "name": "Featherweight - UFC Men (1)",
+        "alt": "featherweight-ufc-men",
+        "url": "https://www.oddsportal.com/mma/world/featherweight-ufc-men/"
+      },
+      {
+        "name": "Featherweight - UFC Men 2026 (2)",
+        "alt": "featherweight-ufc-men-2026",
+        "url": "https://www.oddsportal.com/mma/world/featherweight-ufc-men-2026/"
+      },
+      {
+        "name": "Flyweight - UFC Men (2)",
+        "alt": "flyweight-ufc-men",
+        "url": "https://www.oddsportal.com/mma/world/flyweight-ufc-men/"
+      },
+      {
+        "name": "Heavyweight - UFC Men 2026 (1)",
+        "alt": "heavyweight-ufc-men-2026",
+        "url": "https://www.oddsportal.com/mma/world/heavyweight-ufc-men-2026/"
+      },
+      {
+        "name": "Light Heavyweight - UFC Men (2)",
+        "alt": "light-heavyweight-ufc-men",
+        "url": "https://www.oddsportal.com/mma/world/light-heavyweight-ufc-men/"
+      },
+      {
+        "name": "Lightweight - UFC Men (4)",
+        "alt": "lightweight-ufc-men",
+        "url": "https://www.oddsportal.com/mma/world/lightweight-ufc-men/"
+      },
+      {
+        "name": "Lightweight - UFC Men 2026 (1)",
+        "alt": "lightweight-ufc-men-2026",
+        "url": "https://www.oddsportal.com/mma/world/lightweight-ufc-men-2026/"
+      },
+      {
+        "name": "Middleweight - UFC Men (2)",
+        "alt": "middleweight-ufc-men",
+        "url": "https://www.oddsportal.com/mma/world/middleweight-ufc-men/"
+      },
+      {
+        "name": "Welterweight - UFC Men (1)",
+        "alt": "welterweight-ufc-men",
+        "url": "https://www.oddsportal.com/mma/world/welterweight-ufc-men/"
+      },
+      {
+        "name": "Bantamweight - ONE Championship Men (1)",
+        "alt": "bantamweight-one-championship-men",
+        "url": "https://www.oddsportal.com/mma/world/bantamweight-one-championship-men/"
+      },
+      {
+        "name": "Bantamweight - UFC Women (1)",
+        "alt": "bantamweight-ufc-women",
+        "url": "https://www.oddsportal.com/mma/world/bantamweight-ufc-women/"
+      },
+      {
+        "name": "Bantamweight - UFC Women 2026 (1)",
+        "alt": "bantamweight-ufc-women-2026",
+        "url": "https://www.oddsportal.com/mma/world/bantamweight-ufc-women-2026/"
+      },
+      {
+        "name": "Flyweight - ONE Championship Men (1)",
+        "alt": "flyweight-one-championship-men",
+        "url": "https://www.oddsportal.com/mma/world/flyweight-one-championship-men/"
+      },
+      {
+        "name": "Flyweight - UFC Women (1)",
+        "alt": "flyweight-ufc-women",
+        "url": "https://www.oddsportal.com/mma/world/flyweight-ufc-women/"
+      },
+      {
+        "name": "Lightweight - ONE Championship Men (1)",
+        "alt": "lightweight-one-championship-men",
+        "url": "https://www.oddsportal.com/mma/world/lightweight-one-championship-men/"
+      },
+      {
+        "name": "Welterweight - ONE Championship Men (1)",
+        "alt": "welterweight-one-championship-men",
+        "url": "https://www.oddsportal.com/mma/world/welterweight-one-championship-men/"
+      }
+    ]
+  },
+  {
+    "sport": "rugby-league",
+    "country": "Australia",
+    "url": "https://www.oddsportal.com/rugby-league/australia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/au.svg",
+    "leagues": [
+      {
+        "name": "NRL (8)",
+        "alt": "nrl",
+        "url": "https://www.oddsportal.com/rugby-league/australia/nrl/"
+      }
+    ]
+  },
+  {
+    "sport": "rugby-league",
+    "country": "England",
+    "url": "https://www.oddsportal.com/rugby-league/england/",
+    "flag": "https://cci2.oddsportal.com/country-flags/198.svg",
+    "leagues": [
+      {
+        "name": "Super League (7)",
+        "alt": "super-league",
+        "url": "https://www.oddsportal.com/rugby-league/england/super-league/"
+      }
+    ]
+  },
+  {
+    "sport": "rugby-union",
+    "country": "Europe",
+    "url": "https://www.oddsportal.com/rugby-union/europe/",
+    "flag": "https://cci2.oddsportal.com/country-flags/6.svg",
+    "leagues": [
+      {
+        "name": "Six Nations (3)",
+        "alt": "six-nations",
+        "url": "https://www.oddsportal.com/rugby-union/europe/six-nations/"
+      },
+      {
+        "name": "European Rugby Champions Cup (12)",
+        "alt": "european-rugby-champions-cup",
+        "url": "https://www.oddsportal.com/rugby-union/europe/european-rugby-champions-cup/"
+      },
+      {
+        "name": "Challenge Cup (1)",
+        "alt": "challenge-cup",
+        "url": "https://www.oddsportal.com/rugby-union/europe/challenge-cup/"
+      },
+      {
+        "name": "Europe Super Cup (1)",
+        "alt": "europe-super-cup",
+        "url": "https://www.oddsportal.com/rugby-union/europe/europe-super-cup/"
+      }
+    ]
+  },
+  {
+    "sport": "rugby-union",
+    "country": "France",
+    "url": "https://www.oddsportal.com/rugby-union/france/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fr.svg",
+    "leagues": [
+      {
+        "name": "Pro D2 (7)",
+        "alt": "pro-d2",
+        "url": "https://www.oddsportal.com/rugby-union/france/pro-d2/"
+      }
+    ]
+  },
+  {
+    "sport": "rugby-union",
+    "country": "Wales",
+    "url": "https://www.oddsportal.com/rugby-union/wales/",
+    "flag": "https://cci2.oddsportal.com/country-flags/207.svg",
+    "leagues": [
+      {
+        "name": "Super Rygbi Cymru (1)",
+        "alt": "super-rygbi-cymru",
+        "url": "https://www.oddsportal.com/rugby-union/wales/super-rygbi-cymru/"
+      }
+    ]
+  },
+  {
+    "sport": "rugby-union",
+    "country": "World",
+    "url": "https://www.oddsportal.com/rugby-union/world/",
+    "flag": "https://cci2.oddsportal.com/country-flags/8.svg",
+    "leagues": [
+      {
+        "name": "United Rugby Championship (2)",
+        "alt": "united-rugby-championship",
+        "url": "https://www.oddsportal.com/rugby-union/world/united-rugby-championship/"
+      },
+      {
+        "name": "SVNS South Africa (5)",
+        "alt": "svns-south-africa",
+        "url": "https://www.oddsportal.com/rugby-union/world/svns-south-africa/"
+      },
+      {
+        "name": "SVNS South Africa Women (4)",
+        "alt": "svns-south-africa-women",
+        "url": "https://www.oddsportal.com/rugby-union/world/svns-south-africa-women/"
+      }
+    ]
+  },
+  {
+    "sport": "snooker",
+    "country": "United Kingdom",
+    "url": "https://www.oddsportal.com/snooker/united-kingdom/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gb.svg",
+    "leagues": [
+      {
+        "name": "UK Championship (4)",
+        "alt": "uk-championship",
+        "url": "https://www.oddsportal.com/snooker/united-kingdom/uk-championship/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Argentina",
+    "url": "https://www.oddsportal.com/volleyball/argentina/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ar.svg",
+    "leagues": [
+      {
+        "name": "LVA (6)",
+        "alt": "lva",
+        "url": "https://www.oddsportal.com/volleyball/argentina/lva/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Austria",
+    "url": "https://www.oddsportal.com/volleyball/austria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/at.svg",
+    "leagues": [
+      {
+        "name": "AVL (4)",
+        "alt": "avl",
+        "url": "https://www.oddsportal.com/volleyball/austria/avl/"
+      },
+      {
+        "name": "AVL Women (5)",
+        "alt": "avl-women",
+        "url": "https://www.oddsportal.com/volleyball/austria/avl-women/"
+      },
+      {
+        "name": "2. Bundesliga Women (1)",
+        "alt": "2-bundesliga-women",
+        "url": "https://www.oddsportal.com/volleyball/austria/2-bundesliga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Belgium",
+    "url": "https://www.oddsportal.com/volleyball/belgium/",
+    "flag": "https://cci2.oddsportal.com/country-flags/be.svg",
+    "leagues": [
+      {
+        "name": "Volley League Women (3)",
+        "alt": "volley-league-women",
+        "url": "https://www.oddsportal.com/volleyball/belgium/volley-league-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Bosnia and Herzegovina",
+    "url": "https://www.oddsportal.com/volleyball/bosnia-and-herzegovina/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ba.svg",
+    "leagues": [
+      {
+        "name": "Premijer liga (2)",
+        "alt": "premijer-liga",
+        "url": "https://www.oddsportal.com/volleyball/bosnia-and-herzegovina/premijer-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Brazil",
+    "url": "https://www.oddsportal.com/volleyball/brazil/",
+    "flag": "https://cci2.oddsportal.com/country-flags/br.svg",
+    "leagues": [
+      {
+        "name": "Superliga Women (5)",
+        "alt": "superliga-women",
+        "url": "https://www.oddsportal.com/volleyball/brazil/superliga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Bulgaria",
+    "url": "https://www.oddsportal.com/volleyball/bulgaria/",
+    "flag": "https://cci2.oddsportal.com/country-flags/bg.svg",
+    "leagues": [
+      {
+        "name": "SuperLiga (4)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/volleyball/bulgaria/superliga/"
+      },
+      {
+        "name": "Superliga Women (3)",
+        "alt": "superliga-women",
+        "url": "https://www.oddsportal.com/volleyball/bulgaria/superliga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Cyprus",
+    "url": "https://www.oddsportal.com/volleyball/cyprus/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cy.svg",
+    "leagues": [
+      {
+        "name": "Opap Championship (3)",
+        "alt": "opap-championship",
+        "url": "https://www.oddsportal.com/volleyball/cyprus/opap-championship/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Czech Republic",
+    "url": "https://www.oddsportal.com/volleyball/czech-republic/",
+    "flag": "https://cci2.oddsportal.com/country-flags/cz.svg",
+    "leagues": [
+      {
+        "name": "Extraliga (6)",
+        "alt": "extraliga",
+        "url": "https://www.oddsportal.com/volleyball/czech-republic/extraliga/"
+      },
+      {
+        "name": "Extraliga Women (3)",
+        "alt": "extraliga-women",
+        "url": "https://www.oddsportal.com/volleyball/czech-republic/extraliga-women/"
+      },
+      {
+        "name": "1. liga (3)",
+        "alt": "1-liga",
+        "url": "https://www.oddsportal.com/volleyball/czech-republic/1-liga/"
+      },
+      {
+        "name": "1. liga Women (3)",
+        "alt": "1-liga-women",
+        "url": "https://www.oddsportal.com/volleyball/czech-republic/1-liga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Denmark",
+    "url": "https://www.oddsportal.com/volleyball/denmark/",
+    "flag": "https://cci2.oddsportal.com/country-flags/dk.svg",
+    "leagues": [
+      {
+        "name": "Volleyligaen (2)",
+        "alt": "volleyligaen",
+        "url": "https://www.oddsportal.com/volleyball/denmark/volleyligaen/"
+      },
+      {
+        "name": "1. Division East (1)",
+        "alt": "1-division-east",
+        "url": "https://www.oddsportal.com/volleyball/denmark/1-division-east/"
+      },
+      {
+        "name": "Volleyligaen Women (1)",
+        "alt": "volleyligaen-women",
+        "url": "https://www.oddsportal.com/volleyball/denmark/volleyligaen-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Estonia",
+    "url": "https://www.oddsportal.com/volleyball/estonia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ee.svg",
+    "leagues": [
+      {
+        "name": "Esiliiga (1)",
+        "alt": "esiliiga",
+        "url": "https://www.oddsportal.com/volleyball/estonia/esiliiga/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Europe",
+    "url": "https://www.oddsportal.com/volleyball/europe/",
+    "flag": "https://cci2.oddsportal.com/country-flags/6.svg",
+    "leagues": [
+      {
+        "name": "Champions League Women (2)",
+        "alt": "champions-league-women",
+        "url": "https://www.oddsportal.com/volleyball/europe/champions-league-women/"
+      },
+      {
+        "name": "CEV Cup Women (1)",
+        "alt": "cev-cup-women",
+        "url": "https://www.oddsportal.com/volleyball/europe/cev-cup-women/"
+      },
+      {
+        "name": "Challenge Cup Women (3)",
+        "alt": "challenge-cup-women",
+        "url": "https://www.oddsportal.com/volleyball/europe/challenge-cup-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Finland",
+    "url": "https://www.oddsportal.com/volleyball/finland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fi.svg",
+    "leagues": [
+      {
+        "name": "Mestaruusliiga (1)",
+        "alt": "mestaruusliiga",
+        "url": "https://www.oddsportal.com/volleyball/finland/mestaruusliiga/"
+      },
+      {
+        "name": "Mestaruusliiga Women (1)",
+        "alt": "mestaruusliiga-women",
+        "url": "https://www.oddsportal.com/volleyball/finland/mestaruusliiga-women/"
+      },
+      {
+        "name": "Suomen Cup Women (1)",
+        "alt": "suomen-cup-women",
+        "url": "https://www.oddsportal.com/volleyball/finland/suomen-cup-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "France",
+    "url": "https://www.oddsportal.com/volleyball/france/",
+    "flag": "https://cci2.oddsportal.com/country-flags/fr.svg",
+    "leagues": [
+      {
+        "name": "Ligue A (1)",
+        "alt": "ligue-a",
+        "url": "https://www.oddsportal.com/volleyball/france/ligue-a/"
+      },
+      {
+        "name": "Ligue A Women (1)",
+        "alt": "ligue-a-women",
+        "url": "https://www.oddsportal.com/volleyball/france/ligue-a-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Germany",
+    "url": "https://www.oddsportal.com/volleyball/germany/",
+    "flag": "https://cci2.oddsportal.com/country-flags/de.svg",
+    "leagues": [
+      {
+        "name": "1. Bundesliga Women (3)",
+        "alt": "1-bundesliga-women",
+        "url": "https://www.oddsportal.com/volleyball/germany/1-bundesliga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Greece",
+    "url": "https://www.oddsportal.com/volleyball/greece/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gr.svg",
+    "leagues": [
+      {
+        "name": "League Cup (1)",
+        "alt": "league-cup",
+        "url": "https://www.oddsportal.com/volleyball/greece/league-cup/"
+      },
+      {
+        "name": "A1 Women (6)",
+        "alt": "a1-women",
+        "url": "https://www.oddsportal.com/volleyball/greece/a1-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Hungary",
+    "url": "https://www.oddsportal.com/volleyball/hungary/",
+    "flag": "https://cci2.oddsportal.com/country-flags/hu.svg",
+    "leagues": [
+      {
+        "name": "Extraliga (3)",
+        "alt": "extraliga",
+        "url": "https://www.oddsportal.com/volleyball/hungary/extraliga/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Iceland",
+    "url": "https://www.oddsportal.com/volleyball/iceland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/is.svg",
+    "leagues": [
+      {
+        "name": "Mizunodeild Women (2)",
+        "alt": "mizunodeild-women",
+        "url": "https://www.oddsportal.com/volleyball/iceland/mizunodeild-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Italy",
+    "url": "https://www.oddsportal.com/volleyball/italy/",
+    "flag": "https://cci2.oddsportal.com/country-flags/it.svg",
+    "leagues": [
+      {
+        "name": "SuperLega (1)",
+        "alt": "superlega",
+        "url": "https://www.oddsportal.com/volleyball/italy/superlega/"
+      },
+      {
+        "name": "Super Cup (2)",
+        "alt": "super-cup",
+        "url": "https://www.oddsportal.com/volleyball/italy/super-cup/"
+      },
+      {
+        "name": "Serie A1 Women (5)",
+        "alt": "serie-a1-women",
+        "url": "https://www.oddsportal.com/volleyball/italy/serie-a1-women/"
+      },
+      {
+        "name": "Serie A2 Women (1)",
+        "alt": "serie-a2-women",
+        "url": "https://www.oddsportal.com/volleyball/italy/serie-a2-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Latvia",
+    "url": "https://www.oddsportal.com/volleyball/latvia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lv.svg",
+    "leagues": [
+      {
+        "name": "Nacionala Liga (2)",
+        "alt": "nacionala-liga",
+        "url": "https://www.oddsportal.com/volleyball/latvia/nacionala-liga/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Lebanon",
+    "url": "https://www.oddsportal.com/volleyball/lebanon/",
+    "flag": "https://cci2.oddsportal.com/country-flags/lb.svg",
+    "leagues": [
+      {
+        "name": "1st Division (3)",
+        "alt": "1st-division",
+        "url": "https://www.oddsportal.com/volleyball/lebanon/1st-division/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Montenegro",
+    "url": "https://www.oddsportal.com/volleyball/montenegro/",
+    "flag": "https://cci2.oddsportal.com/country-flags/me.svg",
+    "leagues": [
+      {
+        "name": "Superliga (2)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/volleyball/montenegro/superliga/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Netherlands",
+    "url": "https://www.oddsportal.com/volleyball/netherlands/",
+    "flag": "https://cci2.oddsportal.com/country-flags/nl.svg",
+    "leagues": [
+      {
+        "name": "Eredivisie (4)",
+        "alt": "eredivisie",
+        "url": "https://www.oddsportal.com/volleyball/netherlands/eredivisie/"
+      },
+      {
+        "name": "Eredivisie Women (4)",
+        "alt": "eredivisie-women",
+        "url": "https://www.oddsportal.com/volleyball/netherlands/eredivisie-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Peru",
+    "url": "https://www.oddsportal.com/volleyball/peru/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pe.svg",
+    "leagues": [
+      {
+        "name": "LNSV Women (5)",
+        "alt": "lnsv-women",
+        "url": "https://www.oddsportal.com/volleyball/peru/lnsv-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Poland",
+    "url": "https://www.oddsportal.com/volleyball/poland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pl.svg",
+    "leagues": [
+      {
+        "name": "PlusLiga (8)",
+        "alt": "plusliga",
+        "url": "https://www.oddsportal.com/volleyball/poland/plusliga/"
+      },
+      {
+        "name": "I. Liga (6)",
+        "alt": "i-liga",
+        "url": "https://www.oddsportal.com/volleyball/poland/i-liga/"
+      },
+      {
+        "name": "TAURON Liga Women (7)",
+        "alt": "tauron-liga-women",
+        "url": "https://www.oddsportal.com/volleyball/poland/tauron-liga-women/"
+      },
+      {
+        "name": "I. Liga Women (1)",
+        "alt": "i-liga-women",
+        "url": "https://www.oddsportal.com/volleyball/poland/i-liga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Portugal",
+    "url": "https://www.oddsportal.com/volleyball/portugal/",
+    "flag": "https://cci2.oddsportal.com/country-flags/pt.svg",
+    "leagues": [
+      {
+        "name": "Campeonato Nacional (6)",
+        "alt": "campeonato-nacional",
+        "url": "https://www.oddsportal.com/volleyball/portugal/campeonato-nacional/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Qatar",
+    "url": "https://www.oddsportal.com/volleyball/qatar/",
+    "flag": "https://cci2.oddsportal.com/country-flags/qa.svg",
+    "leagues": [
+      {
+        "name": "Volleyball League (1)",
+        "alt": "volleyball-league",
+        "url": "https://www.oddsportal.com/volleyball/qatar/volleyball-league/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Romania",
+    "url": "https://www.oddsportal.com/volleyball/romania/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ro.svg",
+    "leagues": [
+      {
+        "name": "Divizia A1 (2)",
+        "alt": "divizia-a1",
+        "url": "https://www.oddsportal.com/volleyball/romania/divizia-a1/"
+      },
+      {
+        "name": "Divizia A1 Women (4)",
+        "alt": "divizia-a1-women",
+        "url": "https://www.oddsportal.com/volleyball/romania/divizia-a1-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Russia",
+    "url": "https://www.oddsportal.com/volleyball/russia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ru.svg",
+    "leagues": [
+      {
+        "name": "Superleague (7)",
+        "alt": "superleague",
+        "url": "https://www.oddsportal.com/volleyball/russia/superleague/"
+      },
+      {
+        "name": "Superleague Women (7)",
+        "alt": "superleague-women",
+        "url": "https://www.oddsportal.com/volleyball/russia/superleague-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Serbia",
+    "url": "https://www.oddsportal.com/volleyball/serbia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/rs.svg",
+    "leagues": [
+      {
+        "name": "Superliga (2)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/volleyball/serbia/superliga/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Slovakia",
+    "url": "https://www.oddsportal.com/volleyball/slovakia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/sk.svg",
+    "leagues": [
+      {
+        "name": "Extraliga (1)",
+        "alt": "extraliga",
+        "url": "https://www.oddsportal.com/volleyball/slovakia/extraliga/"
+      },
+      {
+        "name": "Extraliga Women (4)",
+        "alt": "extraliga-women",
+        "url": "https://www.oddsportal.com/volleyball/slovakia/extraliga-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Slovenia",
+    "url": "https://www.oddsportal.com/volleyball/slovenia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/si.svg",
+    "leagues": [
+      {
+        "name": "1. DOL (1)",
+        "alt": "1-dol",
+        "url": "https://www.oddsportal.com/volleyball/slovenia/1-dol/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "South Korea",
+    "url": "https://www.oddsportal.com/volleyball/south-korea/",
+    "flag": "https://cci2.oddsportal.com/country-flags/kr.svg",
+    "leagues": [
+      {
+        "name": "Volleyball League (1)",
+        "alt": "volleyball-league",
+        "url": "https://www.oddsportal.com/volleyball/south-korea/volleyball-league/"
+      },
+      {
+        "name": "Volleyball League Women (1)",
+        "alt": "volleyball-league-women",
+        "url": "https://www.oddsportal.com/volleyball/south-korea/volleyball-league-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Spain",
+    "url": "https://www.oddsportal.com/volleyball/spain/",
+    "flag": "https://cci2.oddsportal.com/country-flags/es.svg",
+    "leagues": [
+      {
+        "name": "SuperLiga (1)",
+        "alt": "superliga",
+        "url": "https://www.oddsportal.com/volleyball/spain/superliga/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Sweden",
+    "url": "https://www.oddsportal.com/volleyball/sweden/",
+    "flag": "https://cci2.oddsportal.com/country-flags/se.svg",
+    "leagues": [
+      {
+        "name": "Elitserien Women (5)",
+        "alt": "elitserien-women",
+        "url": "https://www.oddsportal.com/volleyball/sweden/elitserien-women/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Switzerland",
+    "url": "https://www.oddsportal.com/volleyball/switzerland/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ch.svg",
+    "leagues": [
+      {
+        "name": "NLA (4)",
+        "alt": "nla",
+        "url": "https://www.oddsportal.com/volleyball/switzerland/nla/"
+      }
+    ]
+  },
+  {
+    "sport": "volleyball",
+    "country": "Turkey",
+    "url": "https://www.oddsportal.com/volleyball/turkey/",
+    "flag": "https://cci2.oddsportal.com/country-flags/tr.svg",
+    "leagues": [
+      {
+        "name": "Sultanlar Ligi Women (2)",
+        "alt": "sultanlar-ligi-women",
+        "url": "https://www.oddsportal.com/volleyball/turkey/sultanlar-ligi-women/"
+      }
+    ]
+  },
+  {
+    "sport": "water-polo",
+    "country": "Greece",
+    "url": "https://www.oddsportal.com/water-polo/greece/",
+    "flag": "https://cci2.oddsportal.com/country-flags/gr.svg",
+    "leagues": [
+      {
+        "name": "A1 (6)",
+        "alt": "a1",
+        "url": "https://www.oddsportal.com/water-polo/greece/a1/"
+      }
+    ]
+  },
+  {
+    "sport": "water-polo",
+    "country": "Italy",
+    "url": "https://www.oddsportal.com/water-polo/italy/",
+    "flag": "https://cci2.oddsportal.com/country-flags/it.svg",
+    "leagues": [
+      {
+        "name": "A1 (7)",
+        "alt": "a1",
+        "url": "https://www.oddsportal.com/water-polo/italy/a1/"
+      },
+      {
+        "name": "A1 Women (3)",
+        "alt": "a1-women",
+        "url": "https://www.oddsportal.com/water-polo/italy/a1-women/"
+      }
+    ]
+  },
+  {
+    "sport": "water-polo",
+    "country": "Russia",
+    "url": "https://www.oddsportal.com/water-polo/russia/",
+    "flag": "https://cci2.oddsportal.com/country-flags/ru.svg",
+    "leagues": [
+      {
+        "name": "Championship (2)",
+        "alt": "championship",
+        "url": "https://www.oddsportal.com/water-polo/russia/championship/"
+      }
+    ]
+  },
+  {
+    "sport": "water-polo",
+    "country": "Spain",
+    "url": "https://www.oddsportal.com/water-polo/spain/",
+    "flag": "https://cci2.oddsportal.com/country-flags/es.svg",
+    "leagues": [
+      {
+        "name": "Division de Honor (3)",
+        "alt": "division-de-honor",
+        "url": "https://www.oddsportal.com/water-polo/spain/division-de-honor/"
+      },
+      {
+        "name": "Division de Honor Women (1)",
+        "alt": "division-de-honor-women",
+        "url": "https://www.oddsportal.com/water-polo/spain/division-de-honor-women/"
+      }
+    ]
+  }
+]

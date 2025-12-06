@@ -1,0 +1,218 @@
+{
+  "sport": "Football",
+  "country": "England",
+  "league": "Premier League",
+  "totalMatches": 14,
+  "matches": [
+    {
+      "date": "Tomorrow, 06 Dec",
+      "time": "19:00",
+      "homeTeam": "Bournemouth",
+      "homeTeamLogo": "/serve/images/team-logo/Men/Ewktd19K-tCGtX12c.png?251204133154",
+      "awayTeam": "Chelsea",
+      "awayTeamLogo": "/serve/images/team-logo/Men/4rCw0wTc-IROrZEJb.png?251204133154",
+      "odds": {
+        "home": "3.15",
+        "draw": "3.71",
+        "away": "2.18"
+      },
+      "bookmakers": "18",
+      "url": null
+    },
+    {
+      "date": "Tomorrow, 06 Dec",
+      "time": "19:00",
+      "homeTeam": "Everton",
+      "homeTeamLogo": "/serve/images/team-logo/Men/Cp7kPg6n-bRmKmISE.png?251204133154",
+      "awayTeam": "Nottingham",
+      "awayTeamLogo": "/serve/images/team-logo/Men/6uyUuh7n-ImKwLTtA.png?251204133154",
+      "odds": {
+        "home": "2.20",
+        "draw": "3.23",
+        "away": "3.54"
+      },
+      "bookmakers": "18",
+      "url": null
+    },
+    {
+      "date": "Tomorrow, 06 Dec",
+      "time": "19:00",
+      "homeTeam": "Manchester City",
+      "homeTeamLogo": "/serve/images/team-logo/Men/bD5ctWmh-lQuhqN8N.png?251204133154",
+      "awayTeam": "Sunderland",
+      "awayTeamLogo": "/serve/images/team-logo/Men/l2lrOdUE-0d34NJCO.png?251204133154",
+      "odds": {
+        "home": "1.25",
+        "draw": "6.39",
+        "away": "10.94"
+      },
+      "bookmakers": "18",
+      "url": null
+    },
+    {
+      "date": "Tomorrow, 06 Dec",
+      "time": "19:00",
+      "homeTeam": "Newcastle",
+      "homeTeamLogo": "/serve/images/team-logo/Men/KWip625n-ImMEe0UF.png?251204133154",
+      "awayTeam": "Burnley",
+      "awayTeamLogo": "/serve/images/team-logo/Men/O2x5pck9-6PhTI7J6.png?251204133154",
+      "odds": {
+        "home": "1.29",
+        "draw": "5.88",
+        "away": "10.08"
+      },
+      "bookmakers": "18",
+      "url": null
+    },
+    {
+      "date": "Tomorrow, 06 Dec",
+      "time": "19:00",
+      "homeTeam": "Tottenham",
+      "homeTeamLogo": "/serve/images/team-logo/Men/QwVidgl9-Ig5FKJZ5.png?251204133154",
+      "awayTeam": "Brentford",
+      "awayTeamLogo": "/serve/images/team-logo/Men/riC9AeRc-r9Mudk7j.png?251204133154",
+      "odds": {
+        "home": "2.33",
+        "draw": "3.46",
+        "away": "3.03"
+      },
+      "bookmakers": "18",
+      "url": null
+    },
+    {
+      "date": "Tomorrow, 06 Dec",
+      "time": "21:30",
+      "homeTeam": "Leeds",
+      "homeTeamLogo": "/serve/images/team-logo/Men/nDgKFmPt-MTp25XgE.png?251204133154",
+      "awayTeam": "Liverpool",
+      "awayTeamLogo": "/serve/images/team-logo/Men/K00665Rc-KCp4zq5F.png?251204133154",
+      "odds": {
+        "home": "4.00",
+        "draw": "3.89",
+        "away": "1.86"
+      },
+      "bookmakers": "18",
+      "url": null
+    },
+    {
+      "date": "07 Dec 2025",
+      "time": "20:30",
+      "homeTeam": "Fulham",
+      "homeTeamLogo": "/serve/images/team-logo/Men/drr9Im7n-ImMEe0UF.png?251204133154",
+      "awayTeam": "Crystal Palace",
+      "awayTeamLogo": "/serve/images/team-logo/Men/SIneXy73-pzMOQXRe.png?251204133154",
+      "odds": {
+        "home": "2.56",
+        "draw": "3.30",
+        "away": "2.82"
+      },
+      "bookmakers": "18",
+      "url": null
+    },
+    {
+      "date": "13 Dec 2025",
+      "time": "19:00",
+      "homeTeam": "Liverpool",
+      "homeTeamLogo": "/serve/images/team-logo/Men/K00665Rc-KCp4zq5F.png?251204133154",
+      "awayTeam": "Brighton",
+      "awayTeamLogo": "/serve/images/team-logo/Men/MmmU7K6n-b92lfEJC.png?251204133154",
+      "odds": {
+        "home": "1.71",
+        "draw": "4.02",
+        "away": "4.49"
+      },
+      "bookmakers": "12",
+      "url": null
+    },
+    {
+      "date": "13 Dec 2025",
+      "time": "21:30",
+      "homeTeam": "Burnley",
+      "homeTeamLogo": "/serve/images/team-logo/Men/O2x5pck9-6PhTI7J6.png?251204133154",
+      "awayTeam": "Fulham",
+      "awayTeamLogo": "/serve/images/team-logo/Men/drr9Im7n-ImMEe0UF.png?251204133154",
+      "odds": {
+        "home": "3.79",
+        "draw": "3.50",
+        "away": "1.98"
+      },
+      "bookmakers": "12",
+      "url": null
+    },
+    {
+      "date": "14 Dec 2025",
+      "time": "18:00",
+      "homeTeam": "Crystal Palace",
+      "homeTeamLogo": "/serve/images/team-logo/Men/SIneXy73-pzMOQXRe.png?251204133154",
+      "awayTeam": "Manchester City",
+      "awayTeamLogo": "/serve/images/team-logo/Men/bD5ctWmh-lQuhqN8N.png?251204133154",
+      "odds": {
+        "home": "3.86",
+        "draw": "3.72",
+        "away": "1.89"
+      },
+      "bookmakers": "12",
+      "url": null
+    },
+    {
+      "date": "14 Dec 2025",
+      "time": "18:00",
+      "homeTeam": "Nottingham",
+      "homeTeamLogo": "/serve/images/team-logo/Men/6uyUuh7n-ImKwLTtA.png?251204133154",
+      "awayTeam": "Tottenham",
+      "awayTeamLogo": "/serve/images/team-logo/Men/QwVidgl9-Ig5FKJZ5.png?251204133154",
+      "odds": {
+        "home": "2.37",
+        "draw": "3.42",
+        "away": "2.94"
+      },
+      "bookmakers": "12",
+      "url": null
+    },
+    {
+      "date": "14 Dec 2025",
+      "time": "18:00",
+      "homeTeam": "Sunderland",
+      "homeTeamLogo": "/serve/images/team-logo/Men/l2lrOdUE-0d34NJCO.png?251204133154",
+      "awayTeam": "Newcastle",
+      "awayTeamLogo": "/serve/images/team-logo/Men/KWip625n-ImMEe0UF.png?251204133154",
+      "odds": {
+        "home": "3.58",
+        "draw": "3.37",
+        "away": "2.08"
+      },
+      "bookmakers": "12",
+      "url": null
+    },
+    {
+      "date": "14 Dec 2025",
+      "time": "18:00",
+      "homeTeam": "West Ham",
+      "homeTeamLogo": "/serve/images/team-logo/Men/pYvB3X73-Q9DJHs4l.png?251204133154",
+      "awayTeam": "Aston Villa",
+      "awayTeamLogo": "/serve/images/team-logo/Men/WAsTaVl9-jwz95gs0.png?251204133154",
+      "odds": {
+        "home": "3.67",
+        "draw": "3.57",
+        "away": "1.99"
+      },
+      "bookmakers": "12",
+      "url": null
+    },
+    {
+      "date": "14 Dec 2025",
+      "time": "20:30",
+      "homeTeam": "Brentford",
+      "homeTeamLogo": "/serve/images/team-logo/Men/riC9AeRc-r9Mudk7j.png?251204133154",
+      "awayTeam": "Leeds",
+      "awayTeamLogo": "/serve/images/team-logo/Men/nDgKFmPt-MTp25XgE.png?251204133154",
+      "odds": {
+        "home": "1.99",
+        "draw": "3.53",
+        "away": "3.70"
+      },
+      "bookmakers": "12",
+      "url": null
+    }
+  ]
+}
