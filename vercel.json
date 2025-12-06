@@ -1,0 +1,20 @@
+{
+  "functions": {
+    "api/odds.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    },
+    "api/leagues.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    },
+    "api/sports.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    },
+    "api/live.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  }
+}
